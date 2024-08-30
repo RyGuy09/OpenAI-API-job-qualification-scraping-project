@@ -1,0 +1,256 @@
+Full job description
+About SYLVIS
+
+SYLVIS is an established residuals management firm committed to providing industry-leading environmental consulting and operational services to a wide range of clients in both the private and public sectors. We are a group of highly experienced professionals working across a variety of technical disciplines pioneering innovative solutions to beneficially use residuals. We have been Making Waste History for more than 35 years. SYLVIS is looking to expand its reach by growing across North America and is looking for employees that approach life with a desire to always learn, evolve, and grow.
+
+
+Position Description
+
+The Applied Research Scientist will work directly with the President of SYLVIS to plan, execute, and grow SYLVIS’s internal applied research program that is foundational to the SYLVIS mission to Make Waste History. SYLVIS projects realize the value of residuals (e.g. biosolids, wood ash, compost, pulp and paper residuals, landfill leachate, etc.) by introducing them back into the environment for ecological and societal benefit. As a self-starter, you will design and execute research that determines if and how best residuals can be used, supporting business growth objectives and keeping SYLVIS at the forefront of pioneering beneficial residuals management. You will be involved in all aspects of research from big picture vision development to hands on field sampling.
+
+
+Functions and Responsibilities
+
+Identify key research questions to be addressed with input from qualified professionals, project managers, clients, landowners, and the business development team
+Lead the development of robust experimental designs, data collection, statistical analyses, and reporting functions of the research program
+Implement and integrate applied research experiments within operational projects
+Lead stand alone research projects for clients
+Provide subject matter expertise in soil science, nutrient management, and the value of residuals in SYLVIS’s projects
+Work with the marketing, business development, and project teams to leverage research results into value proposition for clients and the environment
+Establish new research partnerships and relationships with external agencies; support and grow existing relationships and partnerships
+Identifying sources of funding for research and development
+Complete documentation and submissions for the Scientific Research and Experimental Development (SR&ED) Tax Incentive Program
+
+Qualifications
+
+Graduate degree (MSc or PhD) in an environmental discipline related to forestry, agriculture, plant science, soil science, biology, or a similar field with a minimum of five years of experience
+Valid Canadian driver’s license
+
+Skills and Experience
+
+Soil science and plant nutrition expertise
+Field sample collection and analyses (soil, water, residuals, vegetation)
+Conducting literature reviews
+Clear communication of scientific information, targeted for the audience
+Development of hypotheses, experimental design, data management, statistical analyses, reporting, and publications
+Demonstrated ability to write proposals and develop project and program budgets
+Experience working with residuals (e.g. biosolids, wood ash, compost, pulp and paper residuals, landfill leachate, etc.) is considered an asset
+
+As a professional you will bring the following qualities to the position:
+
+A can-do attitude and superior attention to detail and quality,
+Exceptional organization and communication skills,
+A willingness to work outdoors in adverse weather conditions,
+Ability to travel to sites throughout Western Canada
+
+Benefits
+
+SYLVIS is committed to offering best-in-class benefits for its employees and is highly focused on employee satisfaction and retention. Following successful completion of probationary period, benefits available to permanent employees include:
+
+Annual profit-share program
+Laptop, cell phone and monthly plan
+Life insurance and extended health benefits, including a healthcare spending account of $1,000 per dependent
+Lifestyle spending account - $400 per year to support active living and sustainable behaviours (e.g. fitness memberships, public transit passes, exercise gear)
+Field gear allowance, up to $475 per year
+Professional dues reimbursement for a relevant professional designation
+Professional development support and training opportunities
+Three weeks paid annual leave to start
+13 paid statutory holidays
+Flexibility to work from home one day per week
+A fun and supportive work environment including all-staff meetings, social activities, and celebrating personal and professional accomplishments
+________________________________________________________________________________
+Full job description
+Overview:
+At KPMG, you’ll join a team of diverse and dedicated problem solvers, connected by a common cause: turning insight into opportunity for clients and communities around the world.
+
+Are you a talented leader with a proven track record for motivating teams and delivering exceptional client service?
+
+We help organizations to become data driven! Will you collaborate with us?
+Data is the new gold. However, data only has value through strong and reliable data analysis, clear interpretation and good data management. We help our clients in those areas to realize growth, improve performance and to manage risks.
+
+Our Team
+As a Manager in Data Management, you will be a part of our Technology Consulting (Information Management and Data & Analytics) practice within KPMG. This is a worldwide network of professionals who collaborate on a daily basis to create value from data. Enterprise Data Management integrates and is the connecting link with other data focused advisory services including Business Intelligence, Advanced Analytics, Digital Transformation, Enterprise Solutions and Data Security. We collaborate across service offerings on data driven solutions. And that is why Forrester Research has recently recognized KPMG as one of the most prominent advisory firms in Data & Analytics!
+What you will do:
+Creating and presenting data strategies, roadmaps and data operating models
+Leading the assessment and improvement of our clients’ data quality
+Implementing data management capabilities with our clients, so that (cloud) ERP systems perform flawlessly
+Managing data migrations by providing leading practices, relevant experience with specific (cloud) ERP systems
+Leading the deployment and adoption of modern data platforms in our client’s business and technology ecosystems
+Securing ‘trusted’ analytics, by creating transparent and well governed (advanced) analytics processes, data platforms and data lakes
+Advising on digital solutions for Document and Content Management
+Developing and utilizing technical and industry knowledge to resolve complex client challenges and consult on leading practice solutions
+Planning and executing day-to-day activities of advisory engagements for a variety of clients including data strategy and roadmap development, business process analysis, current state assessment and future state process design, data and business case analysis and tailoring recommendations specific to client’s use cases and needs
+Lead business development by presenting thought leadership directly to clients, at industry conferences and leading the development of winning proposals (approach development, effort estimation, collaboration with peers) and negotiation of contracts with clients
+
+You will have the opportunity to be part of our growing Data Management practice, in Canada and globally. Based on our success, you will learn from our Advanced Data Management methodology, training and access to KPMG’s Global Center of Excellence – you can be a part of it!
+What you bring to this role:
+A completed MBA or Bachelor’s degree in Management Information Systems, Computer Science, Business Administration or Data Science
+Preferably a number of years (5+) of experience as a Senior Consultant or Manager in a consulting environment or having worked on realizing data management solutions within your organization
+Superior communication skills, both written and verbal, with the ability to communicate strategic solutions to client stakeholders at director and operational levels
+You are enthusiastic about complex projects and you are a problem solver
+You bring insights and methods for data quality analysis, transformation, mapping and cleansing
+You are a team player and look forward to the challenge to actively collaborate on the dynamic growth of Data Management within KPMG by working on asset development and innovation
+Knowledge of and experience applying governance and data management standards, such as DAMA-DMBOK, CMMI and DCAM
+Knowledge of and experience deploying cloud based data management platforms for example from Informatica, Collibra, Microsoft, IGC, Snowflake.
+Industry-recognized designations/certifications would be a strong asset, including PMP, TOGAF, ITIL, Azure Cloud Solution Architecture, CDMP
+Must be able to travel locally and internationally based on client and project requirements
+________________________________________________________________________________
+Full job description
+Ballard has an immediate opportunity for a Controls Engineer/ Applied Scientist* to join its Lab Equipment Design and Support Operations Team in Burnaby, BC. The successful candidate will apply their strong technical skills to develop fuel cell and fuel cell component testing equipment for Ballard’s state-of-the-art test lab.
+Responsibilities
+Supporting and maintaining data acquisition and control software for fuel cell test stands
+Assisting in design of new object-oriented software architectures
+Performing routine software deployment and upgrading tasks
+Assisting with data analysis and presentation
+Requirements:
+Degree in any Engineering discipline, or a degree in Computer Science with relevant experience
+3-5 years of experience
+Key skills include:
+Experience programming in LabVIEW
+Experience with communication systems and protocols (CAN, DeviceNet, RS-232, Ethernet/IP, etc.)
+Experience with data acquisition hardware (Beckhoff, NI, WAGO, etc.)
+Controls engineering experience: design and tuning of PID and model-based control loops
+Experience with software version control (eg. Git, SVN, etc)
+Data analysis and data presentation skills
+Broad programming experience: various application types in various languages (C/C++, C#, Java, etc)
+Object-oriented programming experience
+Strong oral and written communication ability
+The typical hiring range for this position is CAD$75,000 - CAD$93,000 per annum. In determining total compensation, Ballard considers many factors, including the successful Candidate’s job-related knowledge, skills, experience, position location, and internal equity. As part of our total rewards offering, permanent employees in this position may be eligible for our competitive annual short-term and long-term bonus program, subject to program eligibility requirements.
+
+As a Ballard employee, we want you to feel valued and appreciated for your efforts. That’s why we offer a competitive benefits package in addition to a performance-driven compensation philosophy. From bonuses to benefits, our people work hard and we believe they should be rewarded for it.
+________________________________________________________________________________
+Full job description
+3+ years of building models for business application experience
+PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
+Experience in patents or publications at top-tier peer-reviewed conferences or journals
+Experience programming in Java, C++, Python or related language
+Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+Would you like to work on developing ML models for one of the largest transactional distributed systems in the world? How about working with customers and peers from the entire range of Amazon's business and Science on complex real world problems, backed with high volume data ? Whether you're passionate about building highly scalable and reliable systems or a scientist who likes to solve business problems, Amazon Tax Platform Services is the place for you.
+
+We are responsible for the tax calculation platform, providing the core services that calculate taxes (sales tax and VAT) for all Amazon sales, physical and digital, globally. We seek to provide the correct tax amounts to the customer when placing their Amazon order, and ensure all records are stored safely to meet tax law requirements around the globe. Our challenges include staying on top of the complex and ever-changing global tax legislations as well as computing calculations correctly and quickly, thousands of times a second, and each one needs to be accurate.
+
+As an Applied scientist, you will provide machine learning leadership to the team that helps increase the accuracy of Tax classification based product information in Amazon catalogue making it the biggest and most challenging tax classification using Machine learning models globally. You will work with large language models, to build various machine learning models to predict accuracy of human's on specific tasks, reason with large volumes of systems changes to identify causal determinants, apply generative AI to model outcomes from sparse data.
+You will help us innovate different ways to enhance tax classification experience for our global customers.
+You will need to be entrepreneurial, work in a highly collaborative environment with SDEs, Product managers and businesses. We like to move fast, experiment, iterate and then scale quickly, thoughtfully balancing speed and quality.
+
+Experience using Unix/Linux
+Experience in professional software development
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+The base salary for this position ranges from $149,300/year up to $249,300/year. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.
+________________________________________________________________________________
+Full job description
+Microsoft Research (MSR) is a world-renowned industrial research laboratory with over 1,000 computer scientists working across the United States, United Kingdom, China, India, Canada, and the Netherlands.
+
+
+We are seeking highly skilled Principal Researchers - Cloud and AI Infrastructure in Vancouver, British Columbia, with a keen interest in advancing cloud and Artificial Intelligence (AI) infrastructure architecture, and chip design using AI technologies.
+
+
+Over the past 30 years, our scientists have conducted world-class computer science research, leading to advancements in our products and services that have positively impacted millions of people’s lives and positioned Microsoft at the forefront of digital transformation.
+
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Embody our Culture and Values
+Responsibilities
+
+In this role, you will investigate and analyze emerging hardware technologies, trends, and advancements to stay ahead of the industry.
+Design and optimize hardware components, systems, and architectures to enhance performance, reliability, and efficiency.
+Conduct simulations, tests, and validations to ensure hardware designs meet required specifications and performance goals.
+Develop prototypes and proof-of-concept models to demonstrate new hardware technologies and applications.
+Identify opportunities for hardware improvements and cost reductions by staying informed about industry best practices and standards.
+Collaborate with cross-functional teams, including software researchers, designers, and engineers, to identify hardware requirements and develop innovative solutions.
+Partner with manufacturing vendors and production teams to transition innovative designs and concepts into deployable systems.
+Document research findings, design decisions, and technical specifications to facilitate knowledge sharing and collaboration within the organization.
+Qualifications
+
+Required/Minimum Qualifications:
+
+Doctorate in relevant field AND 3+ years related research experience.
+OR equivalent experience.
+3+ years’ experience in research related to infrastructure design, computer architecture, or artificial intelligence
+
+Additional or Preferred Qualifications:
+Doctorate in relevant field AND 5+ years related research experience.
+OR equivalent experience.
+Experience publishing academic papers as a lead author or essential contributor.
+Experience participating in a top conference in relevant research domain.
+Experience in optimizing or designing hardware components and architectures to enhance performance, reliability, efficiency, etc.
+________________________________________________________________________________
+Full job description
+Your new role
+Sanctuary AI, a world leader in building AI-based control systems for humanoid robots, is seeking a Systems Test Engineer for our Machine Learning Team. Reporting to the Head of Machine Learning, you’ll actively contribute to the internal test, validation, and acceptance process critical to the mission of creating human-like intelligence in general purpose robots.
+
+The Systems Test Engineer will handle the vital responsibility of helping construct, evolve, and accelerate the capabilities of a system designed to support Sanctuary’s mission. You will gain a comprehensive understanding of our existing systems and component testing process and iterate upon it to improve our performance in software testing, integration, and the ability to bring our robotic hardware platform to life.
+
+The best Systems Test Engineer candidate has experience designing and running test programs for high-complexity, network-connected, technological systems. This includes systems comprising hardware, software, and AI/ML technologies, such as those used in autonomous vehicles, drones, mobile robots, or high-performance aerospace vehicles or aircrafts.
+
+As Systems Test Engineer you’ll manage test execution, and validation, against our workflow testing process for all components throughout the robotic system, establish procedures and automation for running those tests to maximize scalable testing acceleration. Demonstrated experience in a Systems Engineering discipline would allow you to hit the ground running in this role.
+Success Criteria
+
+Bring hands-on experience in implementing, documenting, and maintaining testing solutions and lifecycles for highly complex technological systems involving both hardware and software.
+Gain cutting-edge career experience with product level testing and validation towards delivering the world’s first human-like intelligence in general purpose robots.
+Achieve company-wide visibility as you work with leaders to ensure the product level requirements are met, to continually push the boundaries of the systems capabilities forward.
+Expand your experience as you develop a user-level understanding of advanced modern robotics and human-like intelligence systems.
+
+Your Experience
+Qualifications:
+Degree in Engineering or other technical discipline (Computer, Mechatronics, Robotics, Electrical, etc.) or equivalent work experience required.
+1-2 years of hands-on experience with software-driven hardware systems.
+Experience developing and executing test scenarios and supporting data collection.
+Proven ability to write scripts and perform process automation for repeatable testing.
+Ability to work in a multidisciplinary team environment, including research scientists, hardware, electrical, and software engineers.
+Experience dealing with big data, noisy data, and nondeterministic/stochastic systems, including understanding of data quality.
+
+Skills:
+Proficiency in scripting languages such as Python, Bash, JavaScript, or similar.
+Familiarity with networking concepts and protocols such as DNS, HTTP, TCP/IP, SSL, etc.
+Knowledge of machine learning frameworks and libraries such as PyTorch, TensorFlow, Scikit-Learn.
+Exposure to testing frameworks and libraries such as Selenium, Serenity, Robot, or similar.
+Familiarity with electromechanical systems, robotics, autonomous vehicles, and/or industrial automation.
+Excellent organizational, communication, and process documentation skills.
+
+Traits:
+Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problems.
+Optimistic listening and conflict resolution capabilities.
+Demonstrated ability to influence others without authority.
+Eager to take on new challenges with tenacity and positivity.
+Patience, persistence, and attention to detail when resolving performance issues.
+Obsession with bringing human-like intelligence to machines.
+________________________________________________________________________________
+Full job description
+About the Role
+
+BrainStation is currently seeking a full-time Associate Educator to be part of our dynamic team delivering lessons for our Data Science program. BrainStation Educators have the unique opportunity to teach, research, and work on real analysis problems, while simultaneously building the future of education.
+
+Responsibilities
+
+Contribute to BrainStation's Data Science Diploma program that will positively impact the lives and careers of hundreds of individuals across our campuses
+Deliver lectures and mentor the next wave of Data Science talent
+Facilitate in-class activities, group discussions, demos and provide constructive feedback for evaluating student work
+Apply BrainStation's Agile Education methodologies to the program to continuously improve the educational experience for students
+Constantly improve your own skills, and apply these skills in collaboration with other BrainStation Faculty members to build the digital platform and tools needed to deliver cutting-edge content
+Define the education experience of the future
+Requirements
+
+2+ years experience as a Data Scientist or Analytics professional and a Bachelor's degree relevant to the subject matter
+Strong command of querying and programming languages SQL, R and python - numpy, pandas, sklearn, TensorFlow & Keras), and visualization tools (Excel, Tableau, matplotlib/seaborn/plotly in python packages
+Experience applying various methods of numerical and categorical modelling techniques and supervised and unsupervised machine learning methods (OLS regression and GLMs, logistic regression, KNN, SVM, decision trees/random forest, clustering and cluster analysis, dimensionality reduction, neural networks)
+Hands-on development experience working with version control systems (we use Git)
+Practical experience designing and applying data science processes to conduct experiments using a variety of tools and methods, and can speak to their complexities in a simple and logical manner
+Experience in a teaching or mentoring role, and are comfortable speaking to large groups
+Strong written and verbal communication skills
+A proven ability to work under pressure and meet deadlines
+An empathetic, friendly, and approachable demeanor
+A passion for education and creating positive learning experiences for others
+A passion for education and creating a positive learning experiences for others
+Perks and Benefits
+
+Comprehensive Health & Wellness Benefits Package
+Retirement Planning
+Parental Leave Program
+New Device Allowance
+Socials, Outings & Retreats
+Culture of Learning & Development
+Flexible Working Hours
+Work from Home Flexibility

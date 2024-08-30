@@ -1,0 +1,227 @@
+Full job description
+We are seeking a highly motivated and experienced AI Engineer to join our dynamic global team. As an AI Engineer, you will be responsible for developing and implementing cutting-edge AI technologies and solutions that will help drive our business forward. You will work closely with our cross-functional team of designers, developers, and business professionals to design and deliver innovative AI solutions that meet the needs of our clients.
+ Responsibilities:
+	•	Develop, evaluate and implement state-of-the-art AI models, algorithms, and tools that solve complex business problems and enhance our existing solutions
+	•	Extend existing ML frameworks and libraries to meet unique business needs
+	•	Ensure the quality and accuracy of AI solutions through rigorous testing and validation, and ongoing monitoring of performance metrics
+	•	Communicate with non-technical stakeholders to understand their AI needs and present effective solutions and impact in a clear and concise manner
+	•	Conduct in-depth data research and implement data acquisition and cleaning processes to support AI models and algorithms
+	•	Collaborate with cross-functional teams to identify business trends and opportunities, and develop features to improve baseline workflow efficiency and customer experience
+	•	Provide mentorship, guidance, and regular feedback to junior team members to support their professional development, and contribute to a positive team culture of continuous learning and growth
+
+
+Qualifications:
+	•	Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+	•	3+ years of practical experience in AI development, with a focus on machine learning and deep learning
+	•	Ability to write robust codes in Python. Experience with Object Oriented Programming, Multiprocessing & API frameworks.
+	•	Experience with relational databases or cloud-based data warehouse services
+	•	Experience with Transformers and popular model frameworks (TensorFlow, PyTorch)
+	•	Knowledge of data structures, algorithms, and statistics, and ability to apply them to real-world problems
+	•	Excellent problem-solving and analytical skills, with ability to identify and solve complex technical issues
+	•	Strong communication and collaboration skills, with the ability to understand and communicate technical concepts to non-technical stakeholders
+	•	Ability to work both independently and as part of a team
+	•	Curious, self-driven, and with a strong sense of responsibility
+	•	Willingness to work with complex data
+________________________________________________________________________________
+Full job description
+Kirmac is a family owned and operated leader in the collision repair industry. Founded in 1973, Kirmac Collision & Autoglass' team members provide excellent customer service and quality repairs and turn the unfortunate situation of having an accident into a positive, lasting impression for our customers while supporting B.C Children's hospital through Kirmac Cares for Kids. Kirmac currently operates 18 locations across the Lower Mainland and Fraser Valley. 
+
+This role is best suited for an individual passionate about data and using it to provide real value to the organization and its stakeholders. The role of the Data Scientist is dynamic, evolving, and critical to the development of innovative, data-driven solutions. 
+
+Responsibilities: 
+	•	Data Collection and Interpretation:
+	•	Gather data from various sources, including databases, APIs, and external datasets.
+	•	Clean, preprocess, and transform raw data into usable formats.
+	•	Develop an understanding of how the organization operates based on data insights.
+	•	Statistical Analysis and Modeling:
+	•	Apply statistical techniques to identify patterns, correlations, and trends within the data.
+	•	Create predictive models using machine learning algorithms.
+	•	Evaluate model performance and fine-tune parameters.
+	•	Business Insights and Communication:
+	•	Collaborate with business stakeholders to understand their goals and challenges.
+	•	Translate complex data findings into actionable insights.
+	•	Present results through clear visualizations, reports, and presentations.
+	•	Maintain documentation for data management and analysis
+	•	Automation and Process Improvement:
+	•	Use AI tools and programming languages to automate repetitive tasks.
+	•	Develop smart solutions to address specific business challenges.
+	•	Monitor data accuracy and performance.
+Qualifications:1. Educational Background: 
+	•	Bachelor’s or master’s degree in a relevant field
+	•	Additional certifications in data science or machine learning are an asset.
+2. Experience: 
+	•	Typically, 2-5 years of relevant work experience.
+	•	Experience with data analysis, statistical modeling, and machine learning.
+3. Skills: 
+	•	Proficiency in SQL.
+	•	Strong analytical skills and attention to detail.
+	•	Working knowledge of PowerBI and Azure.
+4. Traits: 
+	•	Curiosity and a problem-solving mindset.
+	•	Excellent communication skills to convey complex findings to non-technical stakeholders.
+	•	Adaptability to evolving technologies and data trends.
+________________________________________________________________________________
+Full job description
+	•	3+ years of building models for business application experience
+	•	PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
+	•	Experience in patents or publications at top-tier peer-reviewed conferences or journals
+	•	Experience programming in Java, C++, Python or related language
+	•	Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+Would you like to work on developing ML models for one of the largest transactional distributed systems in the world? How about working with customers and peers from the entire range of Amazon's business and Science on complex real world problems, backed with high volume data ? Whether you're passionate about building highly scalable and reliable systems or a scientist who likes to solve business problems, Amazon Tax Platform Services is the place for you. 
+
+We are responsible for the tax calculation platform, providing the core services that calculate taxes (sales tax and VAT) for all Amazon sales, physical and digital, globally. We seek to provide the correct tax amounts to the customer when placing their Amazon order, and ensure all records are stored safely to meet tax law requirements around the globe. Our challenges include staying on top of the complex and ever-changing global tax legislations as well as computing calculations correctly and quickly, thousands of times a second, and each one needs to be accurate. 
+
+As an Applied scientist, you will provide machine learning leadership to the team that helps increase the accuracy of Tax classification based product information in Amazon catalogue making it the biggest and most challenging tax classification using Machine learning models globally. You will work with large language models, to build various machine learning models to predict accuracy of human's on specific tasks, reason with large volumes of systems changes to identify causal determinants, apply generative AI to model outcomes from sparse data. 
+You will help us innovate different ways to enhance tax classification experience for our global customers. 
+You will need to be entrepreneurial, work in a highly collaborative environment with SDEs, Product managers and businesses. We like to move fast, experiment, iterate and then scale quickly, thoughtfully balancing speed and quality. 
+
+	•	Experience using Unix/Linux
+	•	Experience in professional software development
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter. 
+
+The base salary for this position ranges from $149,300/year up to $249,300/year. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.
+________________________________________________________________________________
+Full job description
+Location: 8800 Glenlyon Pkwy Burnaby, British Columbia
+Career Level: Technical Level 2 or 3
+ Who are we?
+Svante is a rapidly growing clean energy technology company making commercial-scale carbon capture and removal a reality and enabling global industries to play offense in the fight against climate change that will accelerate the global transition to a lower-carbon economy.
+ The growing success of our company is owed to our commitment to our people, our emphasis on our values, and our innovative technology. Passion is put into what we do every day.
+ Purpose of the Role:
+ We are seeking a motivated and qualified Research Scientist with a background in the development and application of Machine learning (ML) techniques in material science at R&D Centre of Excellence of Svante. You will have expertise in large language models, ML-based materials property prediction, and a strong familiarity with metal-organic frameworks (MOFs) and their characterization techniques.
+ Required Skills and Qualifications:
+	•	You have MSc/PhD in Materials Science, Chemistry, Chemical Engineering, or a related field with a focus on computational materials science, machine learning, or a closely related area.
+	•	You have demonstrated expertise in machine learning techniques, particularly Bayesian optimization, and their application to materials design and discovery.
+	•	You have strong programming skills in languages such as Python, MATLAB, or R, and experience in machine learning libraries such as scikit-learn, TensorFlow, or PyTorch.
+	•	You have experience with MOF synthesis, characterization, and data analysis techniques, with a particular emphasis on PXRD patterns.
+	•	You have experience in materials discovery and screening.
+	•	You have track record of publication in peer-reviewed journals and presentation at scientific conferences.
+
+Bonus Skills and Qualifications:
+	•	You have familiarity with molecular features in MOFs, including ligand design, metal coordination environments, pore size, and surface chemistry.
+	•	You have familiarity with crystal structure prediction methods using machine learning techniques, such as graph neural networks, convolutional neural networks, or other advanced machine learning algorithms.
+	•	You have advanced skills in other computational techniques such as DFT and MD.
+
+What Success looks like in this role:
+	•	You will conduct research to develop and apply large language models and machine learning algorithms specifically tailored for the design, synthesis, and characterization of MOFs.
+	•	You will collaborate closely with the sorbent development team to design and screening of new sorbents optimized for CO2 capture, leveraging computational chemistry & machine learning methodologies.
+	•	You will apply ML-based optimization techniques (including Bayesian optimization) to optimize experimental conditions for MOF synthesis and performance.
+	•	You will develop and implement machine learning models for predicting key material properties of MOFs, such as gas adsorption capacity, selectivity, and stability.
+	•	You will collaborate closely with experimentalists to design and interpret experiments, validate computational predictions, and guide experimental synthesis efforts.
+
+Equal Employment Opportunity Statement
+ Svante is an Equal Employment Opportunity employer. Employment decisions are based on merit and business needs. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. This Equal Employment Opportunity policy applies to all practices relating to recruitment and hiring, compensation, benefits, discipline, transfer, termination and all other terms and conditions of employment. All Svante employees share in the responsibility for assuring that, by our personal actions, the policies are effective. Accommodations will be provided as requested by candidates taking part in all aspects of the selection process.
+________________________________________________________________________________
+Full job description
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.
+About the role:
+Do you have a curious mindset that's always hungry for data and will do what it takes to understand the why as well as the what?  Are you passionate about building predictive models to inform business strategy?  We are looking for an experienced data science and analytics manager with a passion for digging into data, structuring problems, and building models to become the first member of our data science segment of our Marketing Strategy, Analytics and Data Science team. In this role, you will be creative - supporting the development of our data science roadmap as well as building out foundational models to support the creation of a more efficient go-to-market strategy. You should know what it takes to be a marketer and apply data-driven insights for continuous improvement.
+Our diverse team is growing, offering opportunities for continuous learning and career progression. Successful candidates will be able to scale and build a team ensuring we are positioned for growth as Samsara continues to scale.
+You should apply if:
+	•	You want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely.
+	•	You are the architect of your own career: If you put in the work, this role won't be your last at Samsara. We set up our employees for success and have built a culture that encourages rapid career development, countless opportunities to experiment and master your craft in a hyper growth environment.
+	•	You're energized by our opportunity: The vision we have to digitize large sectors of the global economy requires your full focus and best efforts to bring forth creative, ambitious ideas for our customers.
+	•	You want to be with the best: At Samsara, we win together, celebrate together and support each other. You will be surrounded by a high-caliber team that will encourage you to do your best.
+Click here to learn about what we value at Samsara.
+In this role, you will:
+	•	Contribute to the development of our core marketing data science roadmap as well as execute on bringing that roadmap to life
+	•	Work to uplevel our current predictive models to increase their accuracy and effectiveness for the business
+	•	Champion the development of our Sales Intelligence muscle and manage the development of predictive models that inform triggers, such as the next best action we should take and more
+	•	Communicate insights using data visualization and presentations to a range of stakeholders
+	•	Contribute to Marketing initiatives to offer ideas and facilitate the establishment and measurement of KPIs
+	•	Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+Minimum requirements for the role:
+	•	Ph.D., M.S., or Bachelor's in Statistics, Economics, Machine Learning, Operations Research, or other quantitative fields
+	•	5+ years of relevant marketing data science, data science or advanced analytics work experience
+	•	3+ years of experience building and deploying predictive marketing models to inform go-to-market strategy (propensity models, time series forecasts, etc.)
+	•	Advanced knowledge of marketing measurement (attribution, marketing mix modeling, lift studies)
+	•	Expertise in Tableau and/or similar platforms; expertise in coding languages and tools like Python, R and SQL - hands on coding experience is needed for this role.
+	•	Exceptional problem-solving, critical thinking, and communication abilities
+An ideal candidate also has:
+	•	Experience building a marketing data science function from scratch in partnership with an analytics and data engineering team
+	•	2+ years of experience managing and building a team
+	•	Experience building out Marketing Mix Models
+	•	Familiarity with web analytics and tracking platforms
+At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+________________________________________________________________________________
+Full job description
+ABOUT MOBSQUAD
+We are a well-funded, hyper-growth, scale-up looking for an experienced Machine Learning Engineer. If you've ever dreamed of working with a top tier technology company scale-up, on leading edge technologies, backed by the very best venture capitalists in the world, then this is your chance.
+Some details about MobSquad:
+	•	MobSquad solves the significant and growing technology talent shortage faced by North American start-ups and scale-ups. MobSquad has unfettered access to top-tier global technology talent which it can relocate to Canada (if necessary) to provide technical services to Canadian as well as US clients on an exclusive, long-term basis. MobSquad enables Canadian work visas to be issued for technology professionals and their respective families within four to six weeks, and Canadian permanent residency to be obtained within 12 months.
+	•	We're a Certified B corporation, and have made numerous contributions to charitable organizations, as well as a financial commitment to the Upside Foundation. We believe we are playing a key role in enhancing Canada's innovation economy, and have received support from the Government of Canada, Province of Alberta, Province of Nova Scotia, and City of Calgary, to support this ambition.
+	•	For our workplace culture, we were recognized as the 14th best place to work in Canada (for a small company) in 2024, and have been recognized specifically for being one of the best workplaces nationally for: inclusion; mental wellness; giving back; youth; and technology. We were also recognized as one of the best start-ups to work for across Canada.
+	•	For our innovative business model, we have been featured in numerous media outlets including: Asian Pacific Post; BetaKit; Bloomberg; CBC; Global News; Gothamist; International Business Times; MIT Technology Review; Nearshore Americas; Nikkei Asian Review; NPR; The Economic Times of India; The Financial Times; The Globe and Mail; The Information; The New York Times; and The Washington Post.
+	•	Harvard Business School published a case study on MobSquad last fall, and Harvard Business Review featured us multiple times in an article that appeared on the cover of their November/December 2020 edition.
+	•	You can learn more about us on our website.
+ABOUT THE ROLE
+As a Machine Learning Engineer, you will be part of a Canada-based team providing technical services to MobSquad's clients. Your team will operate alongside many other talented developers and data scientists in Canada, and you will be an integral part of the tech community that MobSquad has built.
+This role requires someone who has demonstrated an ability to use data to train models which can be used to automate processes such as image classification, speech recognition, and forecasting. The ideal candidate has deployed or attempted to execute Artificial Intelligence theories from various Machine Learning (ML) models and algorithms, and they also have familiarity with data science engineering. The candidate should be able to apply their analytical skills to develop large-scale ML models that reveal the value in data. They are able to understand business objectives from a broader team and build customized models and processes to enable delivery of the business objectives.
+ABOUT YOU
+	•	You have an advanced degree (M.S. or PhD) in Computer Science, Engineering, Mathematics, Physics, or a comparable analytical field from an accredited institution
+	•	You have over five years of experience working with deep learning frameworks (TensorFlow, Keras)
+	•	You have over five years of experience with relevant languages (Python, Java) and libraries (scikit-learn, Pandas)
+	•	You have over five years of experience developing unique algorithms
+	•	You have strong experience creating and deploying machine learning models
+	•	You have demonstrated knowledge of relevant libraries and operating systems (OpenCV, Linux)
+	•	You have knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Cassandra, HBase) databases
+	•	You have strong attention to detail, translating to strength in data quality verification to enable clean data at all times
+	•	You have work/project history reflective of a self-motivated professional who excels when given open-ended problems and broadly-defined goals, having an innate desire to build models and algorithms that reveal the patterns and relationships in data that can be leveraged to provide business value
+________________________________________________________________________________
+Full job description
+Senior Data Analyst
+	•	2402211
+
+ At Raymond James, we develop, we collaborate, we decide, we deliver, and we improve together.
+Raymond James Ltd. is Canada’s leading independent investment dealers offering high quality investment products and services to Canadians seeking customized solutions to their wealth management needs.
+We are seeking an experienced Senior Data Analyst. Reporting to the Senior Manager of the Enterprise Data team the Senior Data Analyst will be responsible for designing and building business intelligence and data integration solutions.
+
+
+Senior Data Analyst
+
+
+How Does The Role Impact The Organization?
+
+
+Under the direction of the Senior Manager, Enterprise Data, Data Analyst responsibilities include conducting full lifecycle activities including requirements analysis, data analysis, data modeling, design and development of reporting dashboards. Assists the business in turning data into information, turning information into insight and insight into decisions.
+What Will Your Role Be Responsible For?
+	•	Interpret business and data requirements after eliciting the problem that needs to be solved.
+	•	Collaborate with team members of the Enterprise Data team to identify data sources and relationships between data sources that are required to solve the business requirements.
+	•	Coach and mentor other analysts on team on best practices in data analysis and designing robust solutions.
+	•	Contribute to the overall enterprise data architecture, design, and process improvement.
+	•	Data mapping and data modeling.
+	•	Compile documentation of requirements and data mapping.
+	•	Design and develop Power BI dashboards.
+	•	Design solutions for analyzing historical and multidimensional data leveraging tools like SSAS.
+	•	Profile data sources using SQL and other data discovery tools in support of data quality analysis and business intelligence design efforts.
+	•	Create detailed business requirements for functional (e.g., business processes, rules) and non-functional (e.g., data, security) capabilities.
+	•	Partner with team members to develop project schedules, reports and documentation; and
+	•	Perform other duties and responsibilities as assigned.
+What Can You Expect From Us?
+Our most important investment is in people. Upon eligibility, Raymond James Ltd offers flexible workstyles, a competitive compensation and benefits package. Our benefits range from Health Benefits, RRSP Matching Program, Employee Stock Purchase Plan, Paid Time Off, Volunteer Days, Discretionary Bonuses, Tuition Reimbursement and many more! We also support internal promotion and community involvement.
+
+ What Do We Expect From You?
+	•	Proficiency in understanding and creating data models, data profiling, data mapping, data mining and data segmentation techniques.
+	•	Proficiency in design and development of PowerBI dashboards based on best practice design principles and efficient data models.
+	•	Analysis: Identify and understand issues, problems, and opportunities; compare data from different sources to draw conclusions.
+	•	Communication: Clearly convey information, insights, and ideas through a variety of media to individuals or stakeholder groups in a manner that engages the audience and helps them understand and retain the message.
+	•	Collect, organize, analyze, and disseminate complex information with attention to detail and accuracy.
+	•	Use effective approaches for choosing a course of action or developing appropriate solutions; recommend or take action that is consistent with available facts, constraints and probable consequences.
+	•	Develop and use collaborative relationships to facilitate the accomplishment of work goals.
+	•	Make internal and external clients and their needs a primary focus of actions; develop and sustain productive client relationships.
+Education and experience:
+	•	Diploma of Technology, Bachelor’s degree in Computer Science, MIS, Business or a related field preferred.
+	•	Minimum of five (5) years of relevant experience.
+	•	Database design and development experience is an asset.
+	•	Power BI design and development skills mandatory – minimum (3) years of hands-on experience
+	•	Excellent SQL knowledge required.
+	•	Knowledge on cloud data tech stack is an asset.
+	•	Experience in the financial services industry preferred but not required.
+We encourage our associates at all levels to:
+	•	Grow professionally and inspire others to do the same.
+	•	Work with and through others to achieve desired outcomes.
+	•	Make prompt, pragmatic choices and act with the client in mind.
+	•	Take ownership and hold themselves and others accountable for delivering results that matter.
+	•	Contribute to the continuous evolution of the firm.

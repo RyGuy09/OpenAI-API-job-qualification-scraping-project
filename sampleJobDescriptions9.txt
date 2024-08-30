@@ -1,0 +1,270 @@
+Full job description
+Miraclon Canada is looking for a talented and motivated Algorthm Developer to join our dynamic team in a growth focused start-up type environment in Burnaby, BC. As a Algorithm Developer, you will play a crucial role in designing, developing, and maintaining cutting-edge software solutions for our FLEXCEL NX solution serving the broader Flexographic Printing market. If you are passionate about finding efficient software solutions to challenging flexographic packaging customer problems, and working collaboratively, this role is for you!
+
+The company’s flagship flexographic plate imaging solution, KODAK FLEXCEL NX System, has received industry-wide acclaim since debuting on the market in 2008 and is a key enabler for transforming the capabilities of flexographic printing. We sell our highly differentiated products in more than 70 countries worldwide, have a loyal customer base, and have consistently brought new, innovative, and leading flexographic solutions to market, delivering strong organic growth above our peers. Operating as a connected, supportive team, we are passionate about our products and are focused on delivering a premium experience for our customers. Find out more at www.miraclon.com, and follow us on LinkedIn and YouTube.
+
+As we expand our team, we are looking for professionals with energy, ideas, and ambition to help us take our business to the next level. This is an environment where you can truly make a difference.
+
+Position:
+The Algorithm Developer role will be focused on developing new technology for Miraclon’s software products to deliver differentiation for the FLEXCEL NX solution. Our software products enable the production of Kodak Flexcel NX technology-based plates.
+
+Responsibilities include:
+
+Develop new algorithms to enhance the performance of FLEXCEL NX products
+Support existing technology in NX Central and TAP
+Motivated to learn the full functionality and technology of the existing Miraclon products
+Establish detailed product requirements by translating marketing requirements and functional needs
+Develop a suitable architecture, and define all interface specifications and requirements for new product developments
+Contribute to and advise the engineering team on the underlying physics of flexo plate processing
+Develop AI strategies to enhance Miraclon’s product offerings
+Excellent prototyping skills to assess algorithm performance.
+Ensure that use cases are developed outlining the various ways customers will use the product and ensure these are used in design verification and testing
+Ensure that appropriate unit testing is carried out and test plans are defined with our test team for assuring outstanding product quality
+Collaborate across boundaries between the Packaging Team and OEM suppliers with focus on solving real customer problems
+Ensure that intellectual property is captured. Experience in writing patents and assessing patent landscape
+Ensure good coding practices are maintained.
+Participate in monthly iteration review and planning sessions.
+Required Skills/Experience:
+
+Bachelor’s Degree (Engineering, Mathematics, Physics or Software) or higher
+A minimum of 5 years’ experience in software development environment focused on algorithm development
+Ability to understand complex imaging systems and develop new software technology to enhance the FLEXCEL NX capabilities
+Excellent ability to grasp the underlying physical principles of a system and apply them in their design approach
+Excellent knowledge of C++, C# and Matlab
+Ability to create highly efficient code for image processing.
+Background in color science and excellent understanding of printing physics
+Understanding of halftone (AM & FM) screening and develop capabilities to develop unique screening technology
+Proactive and adaptive to ensure the team meets their objectives
+Quick learner who takes pride in their work and delivers excellent quality results
+Interest and ability to succeed in a small start-up organization
+Familiarity with the following development tools:
+Perforce
+Visual Studio
+Matlab
+Photoshop
+Eclipse/IntelliJ IDEA
+JIRA Issue Tracker
+Excellent communication and presentation skills, written and verbal, to all levels of an organization as well as to external partners and customers
+Excellent teamwork, and interpersonal skills, and able to interact with diverse technical and non-technical groups, spanning all organizational levels
+Demonstrated ability to work in a collaborative team environment with geographically dispersed individuals
+Act with the values of respect, integrity, trust and credibility
+________________________________________________________________________________
+Full job description
+University Canada West: Faculty of Business: Business Graduate: Marketing, Strategy and Entrepreneurship (MSE)
+Location
+
+Vancouver
+Open Date
+
+May 21, 2024
+Description
+
+Continuing Track Faculty in Marketing, Strategy & Entrepreneurship— Artificial Intelligence & Data Analytics
+
+University Canada West (UCW) invites applications for multiple continuing track faculty positions within the Master of Business Administration program, Department of Marketing, Strategy and Entrepreneurship. Courses within this department include Business Analytics, Cloud Computing Techniques, Marketing, Digital Transformation, Strategy and more.
+
+With these positions, we are specifically seeking faculty with experience and the ability to teach in the area of Artificial Intelligence & Data Anayltics.
+
+UCW is seeking faculty members who are highly talented, motivated, and qualified professionals, ready for the next level of challenge in their careers to teach at our Vancouver campuses. Successful candidates will participate in a wide range of activities outside the classroom, including student support; institutional, faculty, and departmental committee meetings; and professional activities in keeping with their disciplines, both within and outside the institution. Applicants must have a record of scholarly activity or research commensurate with the rank sought, as well as demonstrable success in teaching.
+
+
+Qualifications:
+
+Applicants for continuing faculty positions in the MBA program should have a related doctoral degree. Candidates with a master’s degree and extensive relevant industry experience may be considered.
+
+We are a teaching-intensive university, so candidates must have teaching experience in a degree-granting program at the undergraduate and/or graduate level, including course preparation and delivery, curriculum development, and development of online material/lectures. Additionally, candidates must possess a demonstrated commitment to excellent and innovative pedagogical practices, and engagement in teaching-related scholarly activities.
+
+Our continuing faculty positions include a research component, and we support research by our faculty, especially as it contributes to great teaching and intellectual development. Your application should include research accomplishments to date, and present research areas you might be interested in pursuing in the future.
+
+The continuing faculty positions are located on-campus in our Downtown Vancouver campuses. Applicants must be able to attend in-person classes.
+
+
+Specific Qualifications:
+
+PhD/ DBA in Artificial Intelligence, Computer Science, Data Science, Data Modeling, Engineering or related fields.
+5 years of industry experience in machine learning and data analytics.
+Proficiency with Canadian Data Governance and regulatory environment in the machine learning spaces.
+Strong communication skills and the ability to engage diverse audiences through various teaching modalities.
+Advanced quantitative, data analysis, and analytical thinking skills with a track record of applying these skills to real-world projects.
+Advanced knowledge in programming languages such as C , JAVA, R, or Python.
+Advanced knowledge in Data Visualization tools, such as Tableau, Power BI, or equivalent.
+Advanced knowledge of database technologies such as Microsoft SQL, or No SQL databases.
+Experience in Digital Marketing, Cloud Computing, Big Data and relevant technologies is an asset.
+Knowledge and experience in course design and development with a commitment to diversity, equity, inclusion, and indigenization in teaching, research and service activities.
+Track record of scholarly activity in the field and/or scholarship of teaching and learning.
+Evidence of excellence in teaching, assessing student work and providing constructive feedback
+Experience post-secondary teaching in face-to-face, blended, and online environments, teaching students with diverse social identities and backgrounds.
+Demonstrated experience employing active learning, experiential learning and learner centered approaches.·
+Experience in mentoring and advising students on academic and career-related matters, fostering their growth and success in the field of AI.
+________________________________________________________________________________
+Full job description
+RESPONSIBILITIES:
+Develop state-of-the-art computer vision algorithms for object detection, classification, and face recognition.
+Prototype hardware and software solutions for object detection, classification, and face recognition.
+Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systems.
+Collaborate with product management and engineering groups to develop new products and features.
+SKILLS AND QUALIFICATIONS:
+PhD or MS degree in Computer Science, Electrical Engineering, Statistics, Applied Math, or other related fields.
+Expertise in deep learning, deep neural networks, convolutional neural networks, Artificial Intelligence and/or related techniques.
+Proficient in one or more programming languages such as Python and Java.
+Familiarity with one or more neural network frameworks such as TensorFlow, Caffe or MXNet.
+Strong analytical and quantitative problem solving ability.
+Excellent communication, relationship skills and a strong team player.
+________________________________________________________________________________
+Full job description
+Who We Are
+
+Lightspark is an innovative cleantech company, bringing innovative technology solutions to consumers, trade, utilities and government to help make a more sustainable future. We are building a dynamic enterprise software-as-a-service platform and are looking for people with a passion, curiosity and purpose for using their skills and creativity to make the world a better place.
+
+Who You Are
+
+You have a passion for putting your analytical data skills towards solving complex problems with a focus on geo-spatial techniques, working well with teams, and fighting hard to meet deadlines and build break-out products.
+
+Job Description
+
+We are looking for a data scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, understanding GIS and geo-spatial mapping and building high quality prediction systems integrated with our products. Specifically, you will automate our building energy scoring using machine learning techniques, build recommendation systems, and further develop our catalog of products for energy efficiency and renewables building improvements.
+
+Responsibilities
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+Data mining and statistical analysis using state-of-the-art methods
+Extending company’s data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating automated anomaly detection systems and constant tracking of its performance
+Skills and Qualifications
+
+Excellent understanding of machine learning techniques and algorithms
+Experience working with geospatial data
+Interest in climate change, energy efficiency and desirable that you have experience in energy and building modelling
+Experience with common data science toolkits, such as Python, Weka, NumPy, MatLab, R, etc. Excellence in at least one of these is highly desirable
+Great communication skills and ability to present information to management team in a way that explains concepts and thinking
+Experience with Saas software development
+Experience with data visualisation tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive, Pig
+Experience with PostgresSQL, spatial objects and experience with Redis, Amazon Web Services is required
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills a bonus, including Node JS, Javascript, GraphQL, React, Ruby on Rails and PHP
+Data-oriented personality
+________________________________________________________________________________
+Full job description
+Who we are
+
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+
+Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.
+
+About the role:
+
+Do you have a curious mindset that's always hungry for data and will do what it takes to understand the why as well as the what?
+
+Are you passionate about building predictive models to inform business strategy?
+
+We are looking for an experienced data science and analytics manager with a passion for digging into data, structuring problems, and building models to become the first member of our data science segment of our Marketing Strategy, Analytics and Data Science team. In this role, you will be creative - supporting the development of our data science roadmap as well as building out foundational models to support the creation of a more efficient go-to-market strategy. You should know what it takes to be a marketer and apply data-driven insights for continuous improvement.
+
+Our diverse team is growing, offering opportunities for continuous learning and career progression. Successful candidates will be able to scale and build a team ensuring we are positioned for growth as Samsara continues to scale.
+
+You should apply if:
+
+You want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely.
+You are the architect of your own career: If you put in the work, this role won't be your last at Samsara. We set up our employees for success and have built a culture that encourages rapid career development, countless opportunities to experiment and master your craft in a hyper growth environment.
+You're energized by our opportunity: The vision we have to digitize large sectors of the global economy requires your full focus and best efforts to bring forth creative, ambitious ideas for our customers.
+You want to be with the best: At Samsara, we win together, celebrate together and support each other. You will be surrounded by a high-caliber team that will encourage you to do your best.
+Click here to learn about what we value at Samsara.
+
+In this role, you will:
+
+Contribute to the development of our core marketing data science roadmap as well as execute on bringing that roadmap to life
+Work to uplevel our current predictive models to increase their accuracy and effectiveness for the business
+Champion the development of our Sales Intelligence muscle and manage the development of predictive models that inform triggers, such as the next best action we should take and more
+Communicate insights using data visualization and presentations to a range of stakeholders
+Contribute to Marketing initiatives to offer ideas and facilitate the establishment and measurement of KPIs
+Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+Minimum requirements for the role:
+
+Ph.D., M.S., or Bachelor's in Statistics, Economics, Machine Learning, Operations Research, or other quantitative fields
+5+ years of relevant marketing data science, data science or advanced analytics work experience
+3+ years of experience building and deploying predictive marketing models to inform go-to-market strategy (propensity models, time series forecasts, etc.)
+Advanced knowledge of marketing measurement (attribution, marketing mix modeling, lift studies)
+Expertise in Tableau and/or similar platforms; expertise in coding languages and tools like Python, R and SQL - hands on coding experience is needed for this role.
+Exceptional problem-solving, critical thinking, and communication abilities
+An ideal candidate also has:
+
+Experience building a marketing data science function from scratch in partnership with an analytics and data engineering team
+2+ years of experience managing and building a team
+Experience building out Marketing Mix Models
+Familiarity with web analytics and tracking platforms
+________________________________________________________________________________
+Full job description
+ABOUT MOBSQUAD
+
+We are a well-funded, hyper-growth, scale-up looking for an experienced Machine Learning Engineer. If you've ever dreamed of working with a top tier technology company scale-up, on leading edge technologies, backed by the very best venture capitalists in the world, then this is your chance.
+
+Some details about MobSquad:
+
+MobSquad solves the significant and growing technology talent shortage faced by North American start-ups and scale-ups. MobSquad has unfettered access to top-tier global technology talent which it can relocate to Canada (if necessary) to provide technical services to Canadian as well as US clients on an exclusive, long-term basis. MobSquad enables Canadian work visas to be issued for technology professionals and their respective families within four to six weeks, and Canadian permanent residency to be obtained within 12 months.
+We're a Certified B corporation, and have made numerous contributions to charitable organizations, as well as a financial commitment to the Upside Foundation. We believe we are playing a key role in enhancing Canada's innovation economy, and have received support from the Government of Canada, Province of Alberta, Province of Nova Scotia, and City of Calgary, to support this ambition.
+For our workplace culture, we were recognized as the 14th best place to work in Canada (for a small company) in 2024, and have been recognized specifically for being one of the best workplaces nationally for: inclusion; mental wellness; giving back; youth; and technology. We were also recognized as one of the best start-ups to work for across Canada.
+For our innovative business model, we have been featured in numerous media outlets including: Asian Pacific Post; BetaKit; Bloomberg; CBC; Global News; Gothamist; International Business Times; MIT Technology Review; Nearshore Americas; Nikkei Asian Review; NPR; The Economic Times of India; The Financial Times; The Globe and Mail; The Information; The New York Times; and The Washington Post.
+Harvard Business School published a case study on MobSquad last fall, and Harvard Business Review featured us multiple times in an article that appeared on the cover of their November/December 2020 edition.
+You can learn more about us on our website.
+ABOUT THE ROLE
+
+As a Machine Learning Engineer, you will be part of a Canada-based team providing technical services to MobSquad's clients. Your team will operate alongside many other talented developers and data scientists in Canada, and you will be an integral part of the tech community that MobSquad has built.
+
+This role requires someone who has demonstrated an ability to use data to train models which can be used to automate processes such as image classification, speech recognition, and forecasting. The ideal candidate has deployed or attempted to execute Artificial Intelligence theories from various Machine Learning (ML) models and algorithms, and they also have familiarity with data science engineering. The candidate should be able to apply their analytical skills to develop large-scale ML models that reveal the value in data. They are able to understand business objectives from a broader team and build customized models and processes to enable delivery of the business objectives.
+
+ABOUT YOU
+
+You have an advanced degree (M.S. or PhD) in Computer Science, Engineering, Mathematics, Physics, or a comparable analytical field from an accredited institution
+You have over five years of experience working with deep learning frameworks (TensorFlow, Keras)
+You have over five years of experience with relevant languages (Python, Java) and libraries (scikit-learn, Pandas)
+You have over five years of experience developing unique algorithms
+You have strong experience creating and deploying machine learning models
+You have demonstrated knowledge of relevant libraries and operating systems (OpenCV, Linux)
+You have knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Cassandra, HBase) databases
+You have strong attention to detail, translating to strength in data quality verification to enable clean data at all times
+You have work/project history reflective of a self-motivated professional who excels when given open-ended problems and broadly-defined goals, having an innate desire to build models and algorithms that reveal the patterns and relationships in data that can be leveraged to provide business value
+________________________________________________________________________________
+Full job description
+Your New Role and Team
+Sanctuary AI–a multi award-winning LinkedIn Top Startup company–is seeking an Expert Scientist, Dexterous Manipulation to join our team in engineering and innovating unique robotic manipulation tasks.
+
+As our Expert Scientist, your role will involve choosing the most cutting-edge methods, creating training and data collection systems, overseeing the evaluation of these algorithms in simulated environments, and implementing them on our robots in real-world situations. You will also enjoy the exclusive chance to make a meaningful impact by working with novel haptic and proprioceptive sensing techniques, thanks to our in-house robot with dexterous hands.
+Success Criteria
+
+Create, develop, and enhance cutting-edge Reinforcement Learning (RL) and Imitation Learning (IL) algorithms and evaluate their performance in practical applications
+Stay current with the latest developments in RL/IL techniques and their application in robotics
+Identify, communicate, and lead research initiatives that show promise to the wider ML team
+Discover strategies for enhancing current RL/IL learning processes, considering key performance metrics like sample efficiency, speed, computational resources, and scalability
+Devising RL/IL training and data collection pipelines to expedite implementation on physical robots
+Collaborate within a diverse team to devise innovative algorithms and investigate the root causes of errors in existing implementations
+
+Your Experience
+Qualifications
+Ph.D. in Machine Learning, Computer Science, Applied Mathematics, or equivalent practical background in Reinforcement Learning and/or Imitation Learning
+5+ years of hands-on experience implementing and deploying robotic manipulation tasks, both in simulation and on physical robots
+5+ years of practical experience applying various Reinforcement Learning and/or Imitation Learning methods, with focus on robotics in the real world
+4+ years experience in developing and optimizing large-batch parallel simulations for Reinforcement Learning
+Proven expertise in continual learning, employing adaptive model training to improve long-term performance and accuracy
+Proven expertise in sim-to-real transfer
+Experience in transitioning Machine Learning research and trained models into real-world production
+Active involvement in integrating Machine Learning models into a robotics platform
+A track record of publishing research in esteemed AI conferences such as ICRA, IROS and CORL
+
+Skills
+Development with Python 3.8 or later
+Working knowledge of PyTorch and/or TensorFlow
+Familiarity with ROS2
+Expertise in use of Reinforcement Learning principles and their application
+Experience with Atlassian tools; Jira, Confluence, or equivalent i.e. GitLab
+
+Traits
+Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problems
+Strong leadership skills in organizing R&D work for ML projects
+Eager to take on new challenges with tenacity and positivity
+Patience, persistence, and attention to detail when resolving performance issues
+Enthusiasm for bringing human-like intelligence to machines
+Ability to drive development of new functionalities from concept to production
+Ability to multitask and prioritize in a fast paced environment

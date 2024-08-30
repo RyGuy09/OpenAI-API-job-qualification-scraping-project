@@ -1,0 +1,218 @@
+Full job description
+Who are we?
+Railtown AI Technologies Inc. is a fast-growing innovative technology company committed to developing and using technology to increase developer velocity in the software industry. Leveraging our expertise in software development and AI / machine learning, we are building an AI cloud service that integrates your ticket tracking system (Github, Jira, Azure), CI/CD process and application logs to detect, analyze, and fix application errors quickly and efficiently. At railtown, we value innovation, teamwork, ownership and leadership, and provide you with a fun, dynamic, and rewarding work experience to realize your potential.
+
+ About the role
+As a Machine Learning Engineer, you will work with our growing AI team in developing AI and machine learning (ML) solutions for problems in the software development domain. This position will provide a mix of research and engineering problems as you will be involved in the development of the whole machine learning pipeline, ranging from data ETL (Extract, Transform, Load), model experiment, to cloud deployment. This position will provide you the opportunity to develop and roll out innovative products using modern data science practice with both classical and state-of-the-art AI and ML models. As a fast-growing start-up, we cultivate an environment that will help you meet your full potential. You’ll be encouraged to seize on challenges, learn from our interdisciplinary teams, and grow.
+
+ You may be a good fit for this role if you:
+	•	Have strong analytical and problem-solving skills, and willing to dive deep to find creative solutions
+	•	Have a passion for developing new and innovative solutions with AI, machine learning, and statistical approaches
+	•	Have an entrepreneurial spirit and love to work in a fast-growing start-up environment, where you will meet like-minded people and celebrate successes
+
+What you’ll do here:
+	•	Brainstorm, design and develop the company’s AI initiatives and roadmaps
+	•	Formulate the business problem into AI and Machine Learning tasks
+	•	Working with different types of data including computer logs, errors, natural languages, and more
+	•	Extract, transform, load structured and unstructured text data
+	•	Perform AI and machine learning experiments methodically, and conduct data and error analysis to improve models
+	•	Document findings, approaches and present the results to the team
+	•	Optimize algorithms and prototypical solutions, such as hyperparameter search, model fine-tuning, etc.
+	•	Collaborate with the engineering team to implement (build, test and deploy) the ML models
+	•	Create unit, integration, end-to-end, and/or performance tests.
+	•	Keep current with technology and industry developments and be on the lookout for new approaches and opportunities to integrate them into the existing solutions
+
+ Skills and Qualifications
+	•	BS or MS degree in computer science, engineering, statistics, applied mathematics, or related quantitative discipline
+	•	Ability to synthesize information from multiple sources and act as thought leaders to design creative solutions
+	•	Experience in data mining, machine learning, and/or statistical analysis. Knowledge of NLP approaches is an asset.
+	•	Experience with at least one programming language (i.e., Python is preferred), and knowledge of SQL is a plus
+	•	Familiarity with modern machine learning packages such as Numpy, Pandas, Sklearn, etc. Experience with Deep Learning packages such as Pytorch is an asset.
+	•	Basic knowledge of agile software development (e.g. version control, kanban processes, and cloud deployment).
+	•	Team player. Comfort working in a dynamic group with open problems to solve.
+________________________________________________________________________________
+Full job description
+About us
+Sunia Technology Inc. is an industry leading technology company specializing in AI technology for handwriting, hand-drawing, as well as image and video processing on mobile and portable devices. We are currently seeking a dedicated, diligent, and self-driven Machine Learning Engineer to become a valuable addition to our R&D team.
+Role Overview:
+We are seeking a highly skilled and motivated Machine Learning Engineer with a focus on Automatic Speech Recognition (ASR) to join our team in Vancouver. The successful candidate will possess a strong background in machine learning, deep learning, and speech processing. This role involves designing, developing, and optimizing ASR models and systems to improve the accuracy and efficiency of our speech recognition solutions.
+Responsibilities:
+	•	Design and implement advanced ASR models using state-of-the-art deep learning frameworks.
+	•	Analyze and preprocess audio data to enhance ASR model performance.
+	•	Develop and optimize feature extraction techniques for speech recognition tasks.
+	•	Fine-tune and adapt pre-trained ASR models to specific domains and languages.
+	•	Collaborate with cross-functional teams to integrate ASR solutions into various products and services.
+	•	Conduct research to stay updated with the latest advancements in ASR and related fields.
+	•	Deploy and scale ASR models in real-world applications, ensuring robustness and efficiency.
+	•	Evaluate and benchmark ASR models using standard datasets and performance metrics.
+	•	Troubleshoot and resolve issues related to ASR model development and deployment.
+Requirements：
+	•	Master or PhD degrees in Computer Science, Electrical Engineering, Data Science, or a related field.
+	•	Minimum of 3 years of experience in developing and deploying ASR systems.
+	•	Good working knowledge of one or more Machine Learning Frameworks (TensorFlow, PyTorch, Keras, PaddlePaddle, etc.).
+	•	Proficiency with speech recognition toolkits (e.g., Kaldi, DeepSpeech, Wav2Letter).
+	•	Strong programming skills in one of the programming languages such as C++, Python, etc.
+	•	First class analytical, diagnostic and problem-solving skills.
+	•	Excellent verbal and written communication skills with an ability to collaborate with other team members.
+	•	Passion to work in an exciting environment and deliver new technologies and products to the marketplace.
+	•	Ability to learn quickly.
+	•	A positive mental attitude and growth mindset.
+	•	Please advise in your application whether you are eligible to work in Canada.
+________________________________________________________________________________
+Full job description
+	•	2+ years of non-internship professional software development experience
+	•	1+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+	•	Experience programming with at least one software programming language
+	•	Bachelor's degree in computer science or equivalent
+	•	1+ years experience and knowledge in MLOps, in deploying, operationalizing, and maintaining scalable AI/ML-solutions in production.
+Our AI Center of Excellence builds data-driven automation capabilities to support core operations at global scale. We leverage off the sciences of data, information processing, machine learning, and generative AI to improve user experience, automation, service resilience, and operational efficiency. Our work expands AI-driven capabilities of our businesses in primarily Retail and IT with global impact. 
+
+Key job responsibilities 
+	•	You own the development and operationalization of solutions deployed in production.
+	•	You work across multiple teams to integrate our solutions with products owned by our partners.
+	•	You help design model experimentation processes and frameworks in synergy with our scientists.
+	•	You help the team grow and cultivate best practices in software development, MLOps, and experimentation.
+A day in the life 
+Almost everyday offers new challenges and opportunities for growth. Where one day will offer implementation of experimentation tooling, the next day may be focused on our operational excellence in maintaining our code base. Later in the week, you may sort technical challenges with our partners to help them enrich their products with our models. On some days or weeks, you may watch over our products and stand ready to intervene and provide support to partners consuming our models. 
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply! 
+
+About the team 
+We work back to back to address the technical challenges of automation across a variety of products, software, and systems. Our scientists and machine learning engineers work in synergy to solve hard problems and enrich each other's skills. Together, we are a powerful team of specialists in EU and NA bringing the potential of practical ML and AI to the max with impact on millions of Amazon customers. 
+
+	•	2+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+	•	Master's degree in computer science or equivalent
+	•	Experience in machine learning, data mining, information retrieval, statistics or natural language processing
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+________________________________________________________________________________
+Full job description
+Join us on the journey to help build the world using applied robotics and AI!
+Novarc Technologies is a full-stack robotics company helping to build the world using applied robotics and AI. Recognized as one of the fastest-growing companies in the Americas by the Financial Times for two consecutive years, we are at the epicenter of innovation and global expansion. Join our dynamic team as we extend our reach across four continents, blending pioneering welding technology with a profound global impact. It's a captivating time to be part of our journey – here, you'll do more than just work; you'll be an integral part of a movement shaping the tech-driven future.
+Novarc Technologies is looking for a Senior Machine Learning Engineer to join our growing software team and support the development of high-quality AI and ML solutions.
+Reporting to the Application Team Lead (Senior Software Developer), this role is responsible for leading the development of automated welding solutions. The successful candidate has talent in applied machine learning to improve, optimize and lead the further development of our AI platform.
+Duties and Responsibilities:
+	•	Design & development of robust machine learning algorithms;
+	•	Work with AI researchers, data scientists and engineers;
+	•	Apply and utilize current emerging techniques, technologies, and tools;
+	•	Apply the techniques and models using various programs and programming languages;
+	•	Devise and utilize algorithms and models to mine big-data stores;
+	•	Perform data and error analysis to improve models;
+	•	Clean and validate data for uniformity and accuracy
+	•	Analyze data for trends and patterns, and interpret data with clear objectives in mind
+	•	Develop and combine complex data analysis techniques and methods;
+	•	Extend prototypes into fully functional, polished solutions ready for internal and/or external use;
+	•	Collaborate and communicate with management;
+	•	Taking projects from concept to production as efficiently as possible;
+	•	Develop strong working relationships at all levels in the company with team members and management;
+	•	Other duties as assigned.
+Minimum Qualifications and Experience:
+	•	Computer Vision Expertise: The candidate should have a deep understanding of Computer Vision concepts, including image processing, object detection, image segmentation, feature extraction, and recognition algorithms.
+	•	Machine Learning Knowledge: Strong knowledge and experience in various machine learning techniques, such as supervised and unsupervised learning, deep learning, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transfer learning.
+	•	Programming Languages: Proficiency in C++ and Python is essential, as both languages are commonly used in computer vision and machine learning projects. experience with Pytorch, Tensorflow, OpenCV.
+	•	Software Development Skills: The candidate should have strong software development skills to build efficient and scalable machine learning models and applications. This includes version control (e.g., Git), software architecture, and design patterns.
+	•	Deep Learning Frameworks: Familiarity with popular deep learning frameworks such as TensorFlow, Keras, and PyTorch. Knowledge of OpenCV for computer vision tasks is also important.
+	•	Data Preprocessing and Augmentation: Ability to preprocess and augment image data effectively to improve model performance and generalization.
+About Novarc Technologies:
+Novarc Technologies is a full-stack robotics company specializing in the design and manufacturing of cobots and AI-based machine vision solutions for autonomous welding. (SWR) is the world’s first of its kind in pipe welding applications. As a proven pioneer in the field, Novarc’s team is dedicated to solving challenging welding automation problems that improve customers’ bottom line.
+Why Novarc:
+	•	Growing Opportunities - We are in the process of maturing into a fast-growing medium-sized business.
+	•	Great place to be - We have created a fun, adventurous, and open-minded environment where our teams are encouraged to bond and expose a little weirdness.
+	•	Best People - Our team is made up of talented, intelligent, and hardworking people.
+	•	Lots of Opportunities - We are constantly looking for stand-out talent internally to move into leadership positions.
+________________________________________________________________________________
+Full job description
+We are seeking a talented and experienced AI/Machine Learning Developer to join our dynamic team. As an AI Engineer, you will be responsible for designing, developing, and implementing AI solutions that address our business needs and propel our products to new heights. You will collaborate closely with cross-functional teams to identify opportunities for AI integration, develop robust algorithms, and deploy scalable models in production environments.
+Responsibilities:
+	•	Research, design, and implement machine learning algorithms and models to solve specific business problems.
+	•	Collect, preprocess, and analyze large datasets to extract meaningful insights and patterns.
+	•	Develop and optimize deep learning architectures for various applications, such as natural language processing, computer vision, and predictive analytics.
+	•	Collaborate with software engineers to integrate AI components into existing systems and applications.
+	•	Conduct experiments and evaluations to assess the performance and effectiveness of AI models.
+	•	Stay up-to-date with the latest advancements in AI technologies and best practices.
+	•	Provide technical guidance and mentorship to junior members of the team.
+Requirements:
+	•	Bachelor's degree or higher in computer science, data science, mathematics, or a related field.
+	•	Proven experience (2+ years) working as an AI Developer, Machine Learning Developer, or similar role
+	•	Strong proficiency in programming languages such as Python, Java, Rust or C++/C.
+	•	In-depth knowledge of machine learning frameworks/libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+	•	Experience with deep learning techniques and frameworks (e.g., CNNs, RNNs, Keras).
+	•	Proven expertise in fine-tuning Large Language Models (LLMs) like ChatGPT and Llama for specific applications and domains.
+	•	Excellent problem-solving skills and the ability to work independently or as part of a team.
+	•	Strong communication skills and the ability to explain complex technical concepts to non-technical stakeholders.
+	•	Solid understanding of statistics, probability theory, and linear algebra is a plus.
+	•	Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and containerization technologies (e.g., Docker, Kubernetes) is a plus.
+________________________________________________________________________________
+Full job description
+d-Matrix has fundamentally changed the physics of memory-compute integration with our digital in-memory compute (DIMC) engine. The “holy grail” of AI compute has been to break through the memory wall to minimize data movements. We’ve achieved this with a first-of-its-kind DIMC engine. Having secured over $154M, $110M in our Series B offering, d-Matrix is poised to advance Large Language Models to scale Generative inference acceleration with our chiplets and In-Memory compute approach. We are on track to deliver our first commercial product in 2024. We are poised to meet the energy and performance demands of these Large Language Models. The company has 100+ employees across Silicon Valley, Sydney and Bengaluru.
+Our pedigree comes from companies like Microsoft, Broadcom, Inphi, Intel, Texas Instruments, Lucent, MIPS and Wave Computing. Our past successes include building chips for all the cloud hyperscalers globally - Amazon, Facebook, Google, Microsoft, Alibaba, Tencent along with enterprise and mobile operators like China Mobile, Cisco, Nokia, Ciena, Reliance Jio, Verizon, AT&AT. We are recognized leaders in the mixed signal, DSP connectivity space, now applying our skills to next generation AI.
+Location:
+Hybrid, working onsite at our Santa Clara, CA headquarters or San Diego, CA Location 3 days per week.
+What You Will Do:
+The Machine Learning Team is responsible for the R&D of core algorithm-hardware co-design capabilities in d-Matrix's end-to-end solution. You will be joining a team of exceptional people enthusiastic about researching and developing state-of-the-art efficient deep learning techniques tailored for d-Matrix's AI compute engine. You will also have the opportunity of collaboration with top academic labs and help customers to optimize and deploy workloads for real-world AI applications on our systems.
+	•	Design, implement and evaluate efficient deep neural network architectures and algorithms for d-Matrix's AI compute engine.
+	•	Engage and collaborate with internal and external ML researchers to meet R&D goals.
+	•	Engage and collaborate with SW team to meet stack development milestones.
+	•	Conduct research to guide hardware design.
+	•	Develop and maintain tools for high-level simulation and research.
+	•	Port customer workloads, optimize them for deployment, generate reference implementations and evaluate performance.
+	•	Report and present progress timely and effectively.
+	•	Contribute to publications of papers and intellectual properties.
+What You Will Bring:
+	•	Master's degree in Computer Science, Electrical and Computer Engineering, or a related technical discipline with 3+ years of industry experience, PhD preferred with 1+ year of industry experience.
+	•	High proficiency with major deep learning frameworks: PyTorch is a must.
+	•	High proficiency in algorithm analysis, data structure, and Python programming is a must.
+Desired:
+	•	Proficiency with C/C++ programming is preferred.
+	•	Proficiency with GPU CUDA programming is preferred.
+	•	Deep, wide and current knowledge in machine learning and modern deep learning is preferred
+	•	Experience in real-world data science projects in an industry setting is preferred.
+	•	Experience with efficient deep learning is preferred: quantization, sparsity, distillation.
+	•	Experience with specialized HW accelerator systems for deep neural network is preferred.
+	•	Passionate about AI and thriving in a fast-paced and dynamic startup culture.
+________________________________________________________________________________
+Full job description
+About the job
+
+
+As a Senior Machine Learning Engineer, your focus will be on solving data and engineering challenges. This will enable Hopper to offer products that assist our customers in dealing with common travel issues.
+
+
+This role involves working with Hopper's fintech products and focuses on delivering these products to millions of travelers worldwide. Your primary responsibility will be to enhance existing machine learning pricing models and to develop and deploy new frameworks to improve our product pricing.
+
+
+You will be responsible for the entire development, deployment, and performance tracking of models across multiple platforms.
+What your day-to-day would look like:
+	◦	Ensure we are priced correctly based on changing demand environments and external conditions. Identify segments where we are mispriced and deploy scalable solutions to correct pricing models
+	◦	Think beyond “just the model” by challenging existing product construction and UX, and building data-backed business cases to ship alternatives that improve the customer experience
+	◦	Initiate, develop, and maintain data pipelines that power our decision making
+	◦	Measure business performance by identifying and refining KPI metrics and creating reporting frameworks to continuously monitor them
+	◦	Find new opportunities for revenue growth by becoming the expert on our data and customers
+An ideal candidate has:
+	◦	A proven track record of solving complex problems with in depth understanding of data, product and business impact
+	◦	High attention to detail and ability to create scalable data solutions
+	◦	Strong creative problem-solving skills and critical thinking competencies
+	◦	Ability to effectively communicate pricing decisions and performance to executive-level stakeholders
+	◦	Designed, implemented, and deployed pricing models into production using modern technologies
+	◦	Fluency in using SQL for data creation, maintenance and analysis
+	◦	High proficiency in Python, ML workflows, and ETL pipeline exposure.
+	◦	Experience with data visualization to convey ML models behavior and business insights
+	◦	Worked on a consumer product and has shipped high impact models at scale
+Perks & Benefits:
+	◦	"Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages
+	◦	Hopper covers 100% of the premiums for group insurance plan through Sun life Financial. Coverage includes:
+	◦	80% on paramedical coverage
+	◦	90% - 100% on prescription drugs
+	◦	80% on minor/preventative dental
+	◦	50% on major dental work, plus more
+	◦	100% coverage for eye exams & reimbursement on vision care (glasses, contacts, etc.)
+	◦	Hopper offers life, short term and long term disability coverage through Sun Life Financial.
+	◦	HSA through Sun LIfe Financial that covers eligible medical and dental expenses.
+	◦	All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere.
+	◦	All employees have access to an RRSP plan through Sun Life Financial with automatic pre-tax withdrawals per pay.
+	◦	Please ask us about our very generous parental leave, much above industry standards!
+	◦	Unlimited PTO
+	◦	Carrot Cash travel stipend
+	◦	Flexdesk All Access Pass AND Work-from-home stipend
+	◦	Entrepreneurial culture where pushing limits and taking risks is everyday business
+	◦	Open communication with management and company leadership
+	◦	Small, dynamic teams = massive impact"

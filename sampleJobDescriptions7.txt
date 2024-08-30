@@ -1,0 +1,338 @@
+Full job description
+Terms of Employment
+
+Permanent full-time
+
+About Angstrom Vision
+
+Angstrom Vision Inc. is a venture company spearheading digital 3D vison and AI-based automatic inspection solutions for dynamic tech innovations in the fields of microelectronics, manufacturing, life sciences, biotechnology, and beyond.
+
+Manufacturing industries producing nano materials and parts require a novel inspection system as conventional optical inspection machines are incapable of resolving narrow width of features, patterns, and shapes of target samples. We develop advanced 3D sensors to overcome the limitations of existing optical measurement and inspection systems.
+
+Our technology is a breakthrough in the field of metrology, enabling manufacturers to eliminate the source of errors and defects by examining the microscopic patterns and parts in real time ultra-high-resolution 3D with a wide field of view. With a unique innovation in automatic 3D optical inspection solutions, Angstrom Vision is a groundbreaking solution provider to this ever-rising market.
+
+JOB DESCTIPTION
+
+Angstrom Vision is seeking a Computer Vision and Machine Learning Researcher who is ready to develop machine vision algorithms and various deep learning neural networks for quantitative phase imaging, computational imaging, and machine vision fields for AI-based inspection of captured digital holograms.
+
+In addition to developing machine vision algorithms and neural networks for holographic imaging of 3D sensors, position duties also include practical coordination for high accuracy and operating speed of products with physicists and other researchers and identifying solutions for high-precision measurement and inspection challenges. With expert programing knowledge on C/C++, CUDA libraries, Python, and hands-on software experience in Windows PC, the Computer Vision and Machine Learning Researcher will develop software modules that will be a part of system software.
+
+The candidate will possess passion, creativity, drive, excellence in solid teamwork, a sense of humour, and enjoy doing what it takes to get multiple tasks to the finish line.
+
+required skills and QUALIFICATIONS
+
+Ph.D. and/or M.S. in Computer Science or Computer/Electrical Engineering with 2-5 years of experience in the development of computer vision and machine learning algorithms.
+
+Exceptional capabilities on new algorithm development based on deep convolution neural networks and other neural networks such as U-net, Generative Adversarial Networks (if possible), etc.
+
+Plentiful experience developing noise removal and image processing algorithms such as object detection, segmentation, and classification based on either classical and/or deep neural network.
+
+Proficiency in Python, C/C++, MATLAB, OpenGL, and Qt (if possible).
+
+Experience in parallel programming design and implementation in NVIDIA GPU and multi-threaded application design implementation in Multi-Core CPU is preferred.
+
+Experience with methods in effective dataset generation of 2D/3D image and training of 2D/3D images using Tensor Flow or PyTorch.
+
+Experience in simple User Interface design for dataset training, inference testing, and development based on Phyton, C++, or Qt.
+
+Ability to learn, pick up new concepts, and become proficient in new areas quickly.
+
+Must be a self-starter with a keen commitment to excellence.
+
+Good judgment and understanding of the system-level impact of design choices.
+
+Ability to work with other researchers and engineers (e.g., applied physicists and application software engineers) to develop and innovate on design integration.
+
+Strong team player with excellent conversational and written communication including presentation skills.
+
+PREFERRED QUALIFICATIONS
+
+Familiarity or experience with image processing including quantitative phase imaging, super-resolution, auto-focusing, and de-noising based on classical methods and/or neural networks.
+
+Numerical programming for mathematical equations in C/C++ and CUDA libraries on Nvidia GPUs.
+
+Computational graphics design and programming for 2D/3D data expression and plots.
+
+Experience in auto-defect detection algorithms from 3D depth map data using deep learning inference algorithms.
+
+Experience with programming on multiple CPUs and GPU servers.
+
+Basic understanding of optics, optical components, and light sources such as lasers, LEDs, and other types of white light.
+
+Ability to create documentation including software specifications, user manuals, technical manuals, white papers, and patent documents.
+
+salary
+
+Computer Vision and Machine Learning Researcher ’s base salary shall be discussed based on the applicant’s experience and proficiency. In addition to the base salary, the Board may award an annual bonus of up to two digit percentage of the base salary following the end of each fiscal year during the employment period upon the company achieving operating targets as determined by the Board at the beginning of each fiscal year.
+
+BENEFITS
+
+Angstrom Vision equity or stock option for qualified employees after annual performance review and company’s target growth
+
+Premium health insurance after a probationary period
+
+Standard vacation, paid sick leave, and flexible time off between Christmas and New Year’s Day
+
+Parking space provided
+________________________________________________________________________________
+Full job description
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Our Business Integrity team has a strong user focus and a dedication to technical excellence. We aim to meet our users’ needs with reliable and high-performing platforms and services. We are looking for strong machine learning engineers who are excited to grow their business understanding, build highly scalable machine learning models, and partner across disciplines with global teams, in pursuit of excellence. Given the fast growth of TikTok in the world, we are working on building a next-generation content understanding system for TikTok monetization. We are seeking machine learning engineers at all levels experienced in machine learning, which can help us create an ecosystem that rewards high quality user experience and advertiser value.
+
+Responsibilities
+
+1. Conduct cutting-edge research in machine learning, computer vision or natural language processing.
+2. Support and incubate products with machine learning, especially state-of-the-art AIGC techniques such as GPT, Stable Diffusion, etc.
+Qualifications
+1. Ph.D. degree in Computer Science, Computer Engineering or other relevant majors.
+2. Rich research experience in but not limited to the following areas (as the first author of published papers at CVPR, ICCV, ECCV, TPAMI, IJCV, ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL, etc.)
+a. Image/video search, classification, and recognition
+b. Object detection, segmentation, and tracking
+c. Representation learning (multi-modality, pre-training, vision transformer, etc.)
+d. OCR
+e. Image/video/multimodal generative models
+f. Large language models
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at tt.accommodations@tiktok.com
+Job Information
+The base salary range for this position in the selected city is CAD$ 117000- CAD$ 210960 annually.
+
+​
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+​
+
+The compensation for this position is based on a monthly compensation structure. The range specified is the expected annual compensation for a person in this position.
+
+​
+
+Our company benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support our employees to give their best in both work and life. We offer the following benefits to eligible employees:
+
+​
+
+We cover 100% premium coverage for employee and dependent's extended health care insurance. As well as Short/Long term Disability, Basic Life, Survivor Benefit and AD&D insurance plans.
+________________________________________________________________________________
+Full job description
+Microsoft Research (MSR), a leading industrial research laboratory comprised of over 1,000 computer scientists working across the United States, United Kingdom, China, India, Canada, and the Netherlands.
+
+We are currently seeking a Researcher in the area of Artificial Specialized Intelligence located in Vancouver, British Columbia, with a keen interest in developing cutting-edge large foundation models and post-training techniques for different domains and scenarios. This is an opportunity to drive an ambitious research agenda while collaborating with diverse teams to push for novel applications of those areas.
+
+Over the past 30 years, our scientists have not only conducted world-class computer science research but also integrated advanced technologies into our products and services, positively impacting millions of lives and propelling Microsoft to the forefront of digital transformation.
+
+Responsibilities
+
+Conduct cutting-edge research in large foundation models, focusing on applying large foundation models in specific domain.
+Collaborate with cross-functional teams to integrate solutions into Artificial Intelligence (AI) -driven system.
+Develop and maintain research prototypes and software tools, ensuring that they are well-documented and adhere to best practices in software development.
+Publish research findings in top-tier conferences and journals and present your work at industry events.
+Collaborate with other AI researchers and engineers, sharing knowledge and expertise to foster a culture of innovation and continuous learning within the team.
+Qualifications
+
+Required Qualifications:
+
+Master's Degree in relevant field AND 1+ year(s) related research experience
+OR equivalent experience.
+Preferred Qualifications:
+Doctorate in relevant field AND 2+ years related research experience.
+OR equivalent experience.
+Experience publishing academic papers as a lead author or essential contributor.
+Experience participating in a top conference in relevant research domain.
+Background in system and architecture, including experience with computer hardware, software, and networking technologies.
+Deep knowledge about the latest large model training/inference technology such as instruction finetuning, Reinforcement Learning (RL) and Reinforcement Learning with Hindsight Experience Replay (RLHF), processed and self-reward modeling, low-precision training/inference, etc.
+A track record of published research in the field of AI or other system innovation is a plus.
+Keen interest in general AI research, including but not limited to large foundation models and artificial specialized intelligence.
+Research Sciences IC3 - The typical base pay range for this role across Canada is CAD $79,600 - CAD $153,000 per year.
+Research Sciences IC4 - The typical base pay range for this role across Canada is CAD $104,000 - CAD $193,200 per year.
+Find additional pay information here:
+https://careers.microsoft.com/v2/global/en/canada-pay-information.html
+
+Microsoft accepts applications and processes offers for these roles on an ongoing basis.
+________________________________________________________________________________
+Full job description
+About Us
+
+At Prenuvo, we are on a mission to flip the paradigm from reactive "sick-care" to proactive health care. Our award-winning whole body scan is fast (under 1 hour), safe (MRI has no ionizing radiation), and non-invasive (no contrast). Our unique integrated stack of optimized hardware, software, and increasingly AI, coupled with the patient-centric experience of our clinics across North America, have allowed us to lead the charge against "we caught it too late again." Prenuvo operates preventative screening clinics in Vancouver, Silicon Valley, Dallas, Boca Raton, Minneapolis, Los Angeles, New York City, Bethesda, Chicago, and Atlanta, with more clinics in North America and internationally in the next 2 years.
+
+The Opportunity
+
+We are looking for a Senior Machine Learning Applied Scientist. You will be responsible for designing, implementing, and evaluating machine learning models for a variety of applications, with a focus on addressing challenges related to label noise, unsupervised learning, and diffusion denoising. In this role, you will collaborate closely with other members of our AI team, as well as with radiologists, product managers, and support engineers, to build end-to-end analytics solutions that deliver actionable insights to our customers. Help reshape the world through proactive healthcare while working with cutting-edge technology and high performing teams with deep expertise - join us to make a difference in people's lives!
+
+What You'll Do
+
+Design, implement, and evaluate machine learning models for a variety of applications, with a focus on addressing challenges related to label noise, unsupervised learning, and diffusion denoising
+Collaborate with other members of our AI team, as well as with radiologists, product managers, and support engineers, to build end-to-end analytics solutions that deliver actionable insights to our customers
+Stay up-to-date with the latest advances in machine learning and data science, and apply these techniques to our work as appropriate
+Participate in code reviews and help ensure that code quality and best practices are maintained across the team
+Work with cross-functional teams to ensure that our data science solutions are well integrated with other products and services
+What You'll Bring
+
+Master's or PhD degree in Computer Science, Statistics, Mathematics, Physics, or a related field
+5+ years of industry experience in machine learning or related field
+Strong background in machine learning, deep learning, and computer vision
+Experience with unsupervised learning techniques such as autoencoders, generative models, and contrastive learning
+Experience with label noise mitigation techniques, such as co-teaching or mentor-guided learning
+Familiarity with transformer-based architectures such as BERT or GPT
+Experience with diffusion denoising techniques
+Strong programming skills in Python and proficiency with popular machine learning libraries such as PyTorch or TensorFlow
+Strong communication and teamwork skills
+Nice to Have:
+
+Familiarity with cloud computing platforms such as AWS or Google Cloud
+Experience with medical imaging and/or healthcare data
+Strong publication record in top-tier machine learning or computer vision conferences/journals
+Our Values
+
+We empower - We are all agents for change in transforming healthcare and in transforming our health
+We work together - We work together to support and deliver the best for our members and ourselves
+We bring transparency - Positive change comes from transparency in where we stand as a company, as colleagues and as Prenuvo members
+What We Offer
+
+An avenue to make a positive impact on people's lives and their health
+We believe in preventative healthcare for everyone, including our team - Prenuvo provides free, whole-body scans to each team member
+Growth opportunities are at the heart of our people journey, we're doing big things with bright minds - there is no single path to success, it can be shaped along the way
+Building strong relationships is at the core of everything we do - our team gets together each week to connect, share, and socialize
+Recognizing time away to restore is vital to our wellbeing - we have a flexible vacation policy and we will encourage you to use it
+We offer a comprehensive benefits package including health, dental, vision, including Mental Health coverage, to support you and your family
+The base salary for this role ranges from $150,000 to $200,000 in local currency, depending upon experience
+________________________________________________________________________________
+Full job description
+Your New Role and Team
+Sanctuary AI–a multi award-winning LinkedIn Top Startup company– is seeking Machine Learning (ML) Engineers to join our team of seasoned engineers, researchers, and scientists who are dedicated to tackling fundamental challenges in robotic perception, dexterous manipulation, planning, and reasoning.
+
+As a member of the ML team, your role involves crafting and deploying innovative algorithms and rigorously testing them in both simulated environments and real-world scenarios with our robots. With access to our in-house robotic platforms, you'll embark on impactful projects leveraging cutting-edge haptic and proprioceptive sensing technologies. This position offers a unique chance to explore and implement state-of-the-art ML methodologies within a dynamic and collaborative environment.
+Success Criteria
+
+Collaborate with cross-functional teams to identify opportunities for applying machine learning techniques to solve complex problems
+Design, develop, and deploy machine learning models and algorithms to address specific business needs and challenges
+Implement scalable and efficient software solutions to integrate machine learning models into production systems
+Optimize and fine-tune machine learning algorithms for improved performance and accuracy
+Conduct thorough testing and validation of machine learning models to ensure robustness and reliability
+Stay updated on the latest developments and advancements in machine learning and communicate promising research directions to the team
+Provide technical guidance and mentorship to junior team members
+
+Your Experience
+Qualifications
+Master's degree or Ph.D. in Computer Science, Engineering, Mathematics, or a related field
+3+ years of demonstrated experience in a wide variety of ML methods with a focus on a specialization such as dexterous manipulation with reinforcement learning or imitation learning, computer vision for robotics, or natural language processing
+4+ years of experience in software engineering, with a focus on developing and deploying production-grade applications
+Working experience with ROS2
+Development experience with parallel computing such as CUDA, OpenMP, SSE, etc.
+Experience with Atlassian tools; Jira, GitLab, Confluence
+Experience taking ML models to production
+Hands-on experience with popular machine learning frameworks and libraries such as TensorFlow, PyTorch, scikit-learn, etc.
+Experience with cloud platforms (e.g. AWS, Azure, GCP) and distributed computing frameworks (e.g., Spark) is a plus
+Familiarity with robotics principles and technologies is highly desirable
+Publications in leading AI, ML or robotics conferences
+
+Skills
+Strong proficiency in programming languages such as Python or C++
+Extensive knowledge of machine learning techniques and algorithms, including but not limited to supervised and unsupervised learning, deep learning, reinforcement learning, and natural language processing
+Working knowledge of PyTorch and/or TensorFlow
+Excellent problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment
+Strong communication skills and the ability to convey complex technical concepts to non-technical stakeholders
+
+Traits
+Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problems
+Optimistic listening and conflict resolution capabilities
+Demonstrated ability to influence others without authority
+Eager to take on new challenges with tenacity and positivity
+Patience, persistence, and attention to detail when resolving performance issues
+Obsession with bringing human-like intelligence to machines
+________________________________________________________________________________
+Full job description
+Who We Are:
+
+2K Games is headquartered in Novato, California and is a wholly owned label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO). Founded in 2005, 2K Games is a global video game company, publishing titles developed by some of the most influential game development studios in the world. Our studios responsible for developing 2K's portfolio of world-class games across multiple platforms, include Visual Concepts, Firaxis, Hangar 13, CatDaddy, Cloud Chamber, 31st Union, and HB Studios. Our portfolio of titles is expanding due to our global strategic plan, building and acquiring exciting studios whose content continues to inspire all of us! 2K publishes titles in today's most popular gaming genres, including sports, shooters, action, role-playing, strategy, casual, and family entertainment.
+
+Located in Vancouver, BC, 2K Sports Lab is a small collective being formed within 2K Games that is driving the research and development of future sports interactive entertainment programs. Within this group, speculative work will be done on future sports games with an eye towards taking the magic of 2K's publishing and development expertise and applying them to future opportunities.
+
+Our team of engineers, marketers, artists, writers, data scientists, producers, thinkers and doers, are the professional publishing stewards of our growing library of critically-acclaimed franchises such as NBA 2K, 2K PGA, Tiny Tina's Wonderlands, Lego Drive, BioShock, Borderlands, The Quarry, Mafia, Sid Meier's Civilization, Marvel's Midnight Suns, WWE 2K, and XCOM.
+
+At 2K, we pride ourselves on creating an inclusive work environment, which means encouraging our teams to Come as You Are and do your best work! We encourage ALL applicants to explore our global positions, even if they don't meet every requirement for the role. If you're interested in the job and think you have what it takes to work at 2K, we encourage you to apply!
+
+
+What We Need:
+
+We're seeking an experienced AI Engineer who has a high quality bar, a passion for solving complex problems, and has a deep understanding of AI replication of human sports behaviors. In this role, you will be working closely with Artists, Design and Production to help develop nuanced and sophisticated intelligence that generates variety and authentic behaviors, then iterate and innovate upon it and polish world class gameplay for what will be the next massive sports franchise in our industry.
+
+
+What You'll Do:
+
+Work with existing technology and build new technology in order to fulfill the project's technical requirements and design goals.
+Collaborate closely with gameplay engineers and designers to identify and develop new AI features and intelligence technology to execute on the vision for the project.
+Advise on feasibility of design vision and propose solutions to AI challenges to achieve the design vision.
+Write and maintain well documented robust and performant code.
+Optimize code and debug AI issues as they arise.
+Have and share opinions on the design of the game and game quality.
+Analyze the sport you are working on to develop the intelligence of the behaviors of the players we are replicating, with the goal of creating Authentic, Sophisticated, Emergent and Varied AI behaviors.
+Assist more junior engineers in making the best use of existing and new AI features.
+Conduct regular code reviews to ensure quality and consistency.
+Keep up to date with the latest industry/academic work for consideration for our AI toolset.
+
+What Will Make You A Great Fit:
+
+Bachelor's degree in Computer Science or a related field (or equivalent work experience).
+5+ years of proven experience working as an AI or Gameplay Engineer, especially for AAA games on consoles.
+Expertise and experience with C++.
+Solid math, linear algebra, and statistics skills.
+Ability to write clean, well-documented, and efficient code
+Ability to explain technical topics to people of varying levels of expertise.
+Self-motivated with excellent problem-solving skills
+Ability to work and collaborate effectively as part of a team.
+
+Beneficial Qualifications:
+
+Passionate about playing and/or watching sports.
+Experience in Unreal Engine is a plus.
+Passion for video games (not just ours)
+
+The pay range for this position in British Columbia, Canada at the start of employment is expected to be between 105,100 and 155,200 CAD per Year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for this position may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an 'at-will position' and the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or individual department/team performance, and market factors.
+
+As an equal opportunity employer, we are committed to ensuring that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform their essential job functions, and to receive other benefits and privileges of employment. Please contact us if you need reasonable accommodation.
+
+Please note that 2K Games and its studios never uses instant messaging apps or personal email accounts to contact prospective employees or conduct interviews and when emailing, only use 2K.com accounts.
+________________________________________________________________________________
+Full job description
+Who are we?
+
+Railtown AI Technologies Inc. is a fast-growing innovative technology company committed to developing and using technology to increase developer velocity in the software industry. Leveraging our expertise in software development and AI / machine learning, we are building an AI cloud service that integrates your ticket tracking system (Github, Jira, Azure), CI/CD process and application logs to detect, analyze, and fix application errors quickly and efficiently. At railtown, we value innovation, teamwork, ownership and leadership, and provide you with a fun, dynamic, and rewarding work experience to realize your potential.
+
+About the role
+
+As a Machine Learning Engineer, you will work with our growing AI team in developing AI and machine learning (ML) solutions for problems in the software development domain. This position will provide a mix of research and engineering problems as you will be involved in the development of the whole machine learning pipeline, ranging from data ETL (Extract, Transform, Load), model experiment, to cloud deployment. This position will provide you the opportunity to develop and roll out innovative products using modern data science practice with both classical and state-of-the-art AI and ML models. As a fast-growing start-up, we cultivate an environment that will help you meet your full potential. You’ll be encouraged to seize on challenges, learn from our interdisciplinary teams, and grow.
+
+You may be a good fit for this role if you:
+
+Have strong analytical and problem-solving skills, and willing to dive deep to find creative solutions
+Have a passion for developing new and innovative solutions with AI, machine learning, and statistical approaches
+Have an entrepreneurial spirit and love to work in a fast-growing start-up environment, where you will meet like-minded people and celebrate successes
+What you’ll do here:
+
+Brainstorm, design and develop the company’s AI initiatives and roadmaps
+Formulate the business problem into AI and Machine Learning tasks
+Working with different types of data including computer logs, errors, natural languages, and more
+Extract, transform, load structured and unstructured text data
+Perform AI and machine learning experiments methodically, and conduct data and error analysis to improve models
+Document findings, approaches and present the results to the team
+Optimize algorithms and prototypical solutions, such as hyperparameter search, model fine-tuning, etc.
+Collaborate with the engineering team to implement (build, test and deploy) the ML models
+Create unit, integration, end-to-end, and/or performance tests.
+Keep current with technology and industry developments and be on the lookout for new approaches and opportunities to integrate them into the existing solutions
+
+Skills and Qualifications
+
+BS or MS degree in computer science, engineering, statistics, applied mathematics, or related quantitative discipline
+Ability to synthesize information from multiple sources and act as thought leaders to design creative solutions
+Experience in data mining, machine learning, and/or statistical analysis. Knowledge of NLP approaches is an asset.
+Experience with at least one programming language (i.e., Python is preferred), and knowledge of SQL is a plus
+Familiarity with modern machine learning packages such as Numpy, Pandas, Sklearn, etc. Experience with Deep Learning packages such as Pytorch is an asset.
+Basic knowledge of agile software development (e.g. version control, kanban processes, and cloud deployment).
+Team player. Comfort working in a dynamic group with open problems to solve.

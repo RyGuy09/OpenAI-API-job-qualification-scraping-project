@@ -1,0 +1,370 @@
+Full job description
+We are seeking a highly motivated and experienced AI Engineer to join our dynamic global team. As an AI Engineer, you will be responsible for developing and implementing cutting-edge AI technologies and solutions that will help drive our business forward. You will work closely with our cross-functional team of designers, developers, and business professionals to design and deliver innovative AI solutions that meet the needs of our clients.
+
+
+Responsibilities:
+
+
+Develop, evaluate and implement state-of-the-art AI models, algorithms, and tools that solve complex business problems and enhance our existing solutions
+Extend existing ML frameworks and libraries to meet unique business needs
+Ensure the quality and accuracy of AI solutions through rigorous testing and validation, and ongoing monitoring of performance metrics
+Communicate with non-technical stakeholders to understand their AI needs and present effective solutions and impact in a clear and concise manner
+Conduct in-depth data research and implement data acquisition and cleaning processes to support AI models and algorithms
+Collaborate with cross-functional teams to identify business trends and opportunities, and develop features to improve baseline workflow efficiency and customer experience
+Provide mentorship, guidance, and regular feedback to junior team members to support their professional development, and contribute to a positive team culture of continuous learning and growth
+
+Qualifications:
+
+
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+3+ years of practical experience in AI development, with a focus on machine learning and deep learning
+Ability to write robust codes in Python. Experience with Object Oriented Programming, Multiprocessing & API frameworks.
+Experience with relational databases or cloud-based data warehouse services
+Experience with Transformers and popular model frameworks (TensorFlow, PyTorch)
+Knowledge of data structures, algorithms, and statistics, and ability to apply them to real-world problems
+Excellent problem-solving and analytical skills, with ability to identify and solve complex technical issues
+Strong communication and collaboration skills, with the ability to understand and communicate technical concepts to non-technical stakeholders
+Ability to work both independently and as part of a team
+Curious, self-driven, and with a strong sense of responsibility
+Willingness to work with complex data
+
+
+________________________________________________________________________________
+Full job description
+Opportunity
+
+Olympic Industries ULC is currently searching for a highly motivated and innovative Data Scientist Intern to join our team from September through December 2024!
+
+The Data Scientist Intern will be responsible for developing and maintaining data pipelines, optimizing infrastructure, assisting in backend development, and implementing machine learning models to support the company’s business objectives and operations.
+
+Responsibilities
+
+Reporting to the Data Scientist, the Data Scientist Intern is responsible for the following as well as other related duties as assigned to support the business objectives and purpose of the company:
+
+Develop, construct, test, and maintain optimal data pipeline architecture.
+Identify, design, and implement internal process improvements including re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes.
+Develop and manage well-functioning databases and applications.
+Assist in code optimization in data science and trading projects.
+Troubleshoot and debug automation and scraping program code.
+Assist Full-Stack Data Developer with backend development.
+Develop, test, and implement machine learning models using Python and other relevant tools and technologies.
+Work closely with our data engineering team to ensure that our data pipelines are optimized for machine learning applications.
+
+
+Position Requirements
+
+To be successful as a Data Scientist Intern, an individual must be committed to developing, maintaining, and demonstrating the following:
+
+Education and Experience
+
+An academic background in Computer Science, Software/Computer Engineering, or a related technical field.
+Experience in writing complex SQL queries and working with databases, such as MSSQL, MySQL, PostgreSQL, and MongoDB.
+Experience in machine learning and data mining including libraries such as TensorFlow, Scikit-learn, and XGBoost.
+Extremely strong programming skills in Python and data science libraries such as Pandas, NumPy, Seaborn, and Matplotlib.
+Working knowledge of data structures and algorithm designs.
+Working knowledge of machine learning models and deep learning algorithms.
+Basic understanding of statistical analysis and probability theory.
+Familiarity with pulling data from API’s and ETL processing
+Knowledge or experience in working with REST API and Web Socket to extract, manipulate, and automate data considered an asset.
+
+Who We Are
+
+Olympic Industries ULC is a leading international forest products trading company with our annual revenue exceeding $500 million. Our expertise includes the trading, importing/exporting, and manufacturing of forest products from the comfort of our office located in the heart of the vibrant and breathtaking Lonsdale Quay in North Vancouver, BC. With over 25 active Commodity Traders in house, we are proud to have a corporate culture that rewards hard work, entrepreneurship, and team collaboration.
+
+
+Why Join Us?
+
+Small Company with Big Perks
+
+Olympic is a mid-sized company with an open door/open concept layout where anybody you may need is easily accessible. This layout not only helps to support individuals in their career growth and development but also encourages individuals to interact and be curious about how different departments support each other in their roles.
+
+Great Central Location
+
+Located in the Lonsdale Quay, Olympic is transit accessible from any location in the lower mainland. There are many great shops, restaurants, and parks within a walking distance and the mountains are just a 10-minute drive away.
+
+Additional Details
+
+$65K-75K per annum.
+Nespresso coffee & tea bar.
+On-site gym & showers.
+
+Apply Now!
+
+For more information on Olympic Industries, please visit our website at www.olympicind.com.
+
+We thank all applicants for their interest! However, only those selected for an interview will be contacted. At Olympic Industries, we embrace diversity and are committed to building a team that represents a variety of backgrounds, cultures, perspectives skills, and experiences. As an equal opportunity employer, we encourage applications from all qualified individuals.
+
+
+________________________________________________________________________________
+Full job description
+Career Opportunity – Data Scientist
+
+Renaissance BioScience Corp. is a leading global biological engineering company. We believe biology can transform our world by creating the things we need in healthier, more productive, and sustainable ways. Using our proprietary biological engineering platform, we create transformative solutions to real-world problems in global industries like food and beverage, agriculture, chemicals, and healthcare.
+
+Looking for scientists, entrepreneurs, and imagineers.
+
+Our Employee Values:
+
+1. Communication = Open, honest, and effective communication is the cornerstone of how we work.
+
+2. Teamwork = We are accountable individually and as part of a team. Every person—across all departments and levels—are valuable members of our team.
+
+3. Entrepreneurship = Our company is founded on an entrepreneurial mindset driving technological innovation in biology. Asking "what's possible", and questioning "what's not."
+
+Diversity, equity, and inclusion are integral to our company’s values and principles. We recognize that a diverse workforce and inclusive culture drive innovation, creativity, and better decision-making. To help build our leading research and development team, we aim to hire intelligent people who are self-starters and results driven. If you are a team player looking for an opportunity to grow your career in a fast-paced, growing life sciences company, please consider applying for the opportunity below today.
+
+Position Summary
+
+Renaissance is looking for a Data Scientist with expertise in computational-structural biochemistry and molecular modeling.
+
+Renaissance is looking for a Data Scientist to assist in the development of innovative computational and machine learning based approaches for advancing our data platforms for yeast genomics, phenomics, metabolomics, and therapeutics utilizing advanced computational modeling, visualization, and analysis. This role is based at our office located on the University of British Columbia’s main campus, in beautiful Vancouver, BC.
+
+Key responsibilities for this role include executing on partner projects, and developing large-scale data analysis methods, visualization models, data, reports, and presentations.
+
+Our ideal candidate thrives in an innovation-driven, results-oriented environment.
+
+Responsibilities include, but are not limited to:
+
+Design, plan, and implement computational algorithms to analyze biological data sets for genomics, metabolomics or phenomics projects.
+Analyze complex biological datasets to extract meaningful insights.
+Develop and implement statistical models and machine learning algorithms, integrating data from various sources, ensuring accuracy and consistency.
+Manage and maintain strain databases, ensuring data integrity and security.
+Develop methods for AI or machine learning that will allow scientists and business clients to identify traits of commercial interest from strain databases.
+Ensure the accuracy and reliability of data analyses and molecular modeling.
+Collaborate with cross-functional teams to interpret and communicate results effectively.
+Prepare reports and presentations to convey findings to both internal and external audiences.
+Document methodologies, analyses, and results for internal and external communication.
+Stay abreast of the latest advancements in computational biology and integrate innovative approaches into our workflows.
+Contribute to team scientific discussions, and projects.
+Deliver on partner projects including, but not limited to:
+
+Vaccine development:
+
+Identify the SLA alleles present in the swine population from RNAseq data and perform the 3D modeling of the targeted peptide binding grooves.
+Develop and implement models to simulate and predict SLA binding, including the development of T cell and B cell epitopes and docking simulations.
+Summarize data and prepare project reports based on project requirements.
+Other duties, as required.
+Education & Experience Required:
+
+PhD in computer science, statistics, bioinformatics, biochemistry, or in another discipline with relevant data science experience, or the equivalent education and experience to deliver on our projects.
+Understanding of computational-structural biochemistry, with expertise in molecular modeling and docking.
+Strong experience with data science tools and databases.
+Proven experience in applying computational methods to analyze complex biological data.
+Expert experience in computational modeling and simulation, including developing T cell and B cell epitopes.
+Ability to prioritize workload and allocate time/resources accordingly.
+Strong problem-solving attitude; completes more with less; identifies and optimizes opportunities.
+Demonstrated capability for working well independently and collaboratively in a team setting to meet corporate goals; strong self-starter work ethic/attitude.
+Ability to adapt and thrive in an entrepreneurial, growing, and changing work environment.
+We offer a supportive and collaborative work environment. Your compensation package will include many components including a salary range $80,000 - $105,000 (to be negotiated based on many factors.
+
+How to Apply
+
+Please email your resume and a brief cover letter indicating why you feel you are a fit for this role today. Please indicate Data Scientist in the subject line.All qualified applicants will receive consideration for employment without regard to race, colour, ancestry, place of origin, religion, marital status, family status, physical or mental disability, sex, sexual orientation, gender identity or expression, or age. We would like to thank all applicants who apply. Only those selected for an interview will be contacted. No phone calls, thank you.
+
+About Renaissance BioScience Corp.
+
+Renaissance is a leading bioengineering company based in Vancouver, British Columbia whose platform technologies are used to develop innovative, market-ready, functional microorganisms that provide cost effective solutions to a broad range of environmental, health and industrial efficiency problems. Renaissance technologies create products for multiple end-use industries, including food & beverage, agriculture crop protection, animal and human health and energy. Detailed information about the Renaissance group of companies can be accessed at renaissancebioscience.com.
+
+Job Type: Full-time
+
+Pay: $80,000.00-$100,466.00 per year
+
+Benefits:
+
+Dental care
+Extended health care
+Paid time off
+Ability to commute/relocate:
+
+Vancouver, BC: reliably commute or plan to relocate before starting work (preferred)
+Education:
+
+Post-Doctorate (preferred)
+Experience:
+
+bioinformatics: 3 years (required)
+Work Location: In person
+
+Application deadline: 2024-07-05
+
+________________________________________________________________________________
+Full job description
+	•	Job requisition number  038728  Job location  Richmond   Full-time / part-time  Full-time  Salary  $53.08 - $68.61/hourly   Expected Salary Range  Salary is determined based on the candidate's qualifications and market conditions for the role.  Posting period   From 06/04/2024 to 08/30/2024  
+Overview
+Are you a highly motivated and innovative person with a deep experience as an analyst or a programmer and an obsession with finding patterns that can predict the future or recommend better actions? If so, we have an exciting opportunity for you in our Analytics & Data Lifecycle Services team!
+In the role of a Data Scientist, you’ll contribute to our mission by championing, designing, developing, and implementing some of the most leading-edge analytics algorithms. Machine learning and other advanced analytics techniques are already being leveraged to create significant efficiencies in solutions, processes, and systems at WorkSafeBC, and our team’s focus is to expand on how we use this rapidly evolving technology to assist our internal clients as they seek to achieve the best outcomes from their decisions.
+If you are energized by the thought that there are complex and untapped patterns hidden deep within our data that are not currently being used to improve decision making, and that those patterns could unlock huge new value for our organization and for our external stakeholders, then consider joining our team!
+At this time, this is a hybrid position where you will work primarily at home and be on-site at our Richmond office occasionally.
+How you’ll make a difference: You’ll use leading edge tech to connect people to healthy and safe workplaces.
+Where you’ll work
+WorkSafeBC, we offer a hybrid work model that combines the convenience of working remotely with the dynamism of working in one of our offices, based on the operational needs of the position.
+In this role, you’ll work primarily from your B.C. home and occasionally in our Richmond office.
+What you'll do
+As a Data Scientist you will:
+	•	Initiate, explore, and apply predictive and prescriptive modeling by leveraging the latest techniques and research
+	•	Build, automate, and maintain high-quality statistical and machine learning models that generate significant value or an enhanced service experience
+	•	Develop an expert organization-wide knowledge of business processes, decisions, and data to build the most effective models
+	•	Coordinate the development and maintenance of robust model metadata and other supporting documentation
+	•	Lead applied research, pilot studies, proofs of concept, and various program evaluation projects
+	•	Work in an Agile delivery environment, supporting a team to deliver production analytics solutions using Agile/DevOps methods
+Is this a good fit for you?
+We’re looking for someone who can:
+	•	Initiate, plan, lead, and monitor team objectives to completion
+	•	Provide just-in-time feedback and coach and mentor to improve personal and team effectiveness
+	•	Ask pertinent questions, summarizes, verifies and interprets data; assimilates technical and business information; presents and reviews relevant information with clients, co-workers, and contacts to achieve mutual understanding
+	•	Has a working knowledge of SQL, or other similar data extraction and transformation language commonly used by data scientists
+	•	Has a working knowledge of Python, R, or other similar coding language commonly used by data scientists
+	•	Has a general knowledge of analytical and statistical techniques and methods to measure performance
+	•	Has a working knowledge in supervised machine learning techniques, including classification and regression.
+	•	Has a general knowledge in advanced machine learning techniques, such as deep neural networks, recurrent neural networks, convolutional neural networks, reinforcement learning, and generative adversarial networks, with an understanding of how to leverage both structured and unstructured data
+Your background and experience
+	•	A Master’s degree in Data Science or a Data Science-related discipline such as Statistics/Mathematics, Operations Research, Big Data, Computer Science, Information Technology, or Engineering
+	•	A minimum of six years’ of business intelligence or statistical analysis, and within the six years, at least three years of advanced analytics, predictive modeling, and/or text mining solution development
+Important to know
+Before we can finalize any offer of employment, you must:
+	•	Consent to a criminal record check
+	•	Confirm you’re legally entitled to work in Canada
+WorkSafeBC’s COVID-19 Employee Mandatory Vaccine Policy is suspended effective January 9, 2023; however, we reserve the right to re-implement it in response to changes in the public health landscape, including public health orders. We are committed to the protection, health, and safety of our employees and our Communicable Disease Prevention Program and related protocols remain in effect.
+Who we are
+At WorkSafeBC, we promote safe and healthy workplaces across British Columbia. We partner with workers and employers to save lives and prevent injury, disease, and disability. When work-related injuries or diseases occur, we provide compensation and support injured workers in their recovery, rehabilitation, and safe return to work. We’re honoured to serve the 2.49 million workers and 263,000 registered employers in our province.
+What’s it like to work at WorkSafeBC?
+It’s challenging, stimulating, and rewarding. Our positions offer diversity and opportunities for professional growth. Every day, the work we do impacts people and changes lives. What we do is important, and so are the people we do it for.
+Our ability to make a difference relies on building a team with a rich variety of skills, knowledge, backgrounds, abilities, and experiences that reflect the diversity of the people we serve. We are committed to fostering a welcoming, inclusive, and supportive work culture where everyone can contribute as their best, authentic self.
+Learn more: Discover who we are.
+Our benefits
+As a member of our team, you’ll have access to services and benefits that help you get the most out of work — and life. Along with a competitive salary, your total compensation package includes:
+	•	Defined benefit pension plan that provides you with a lifetime monthly pension when you retire
+	•	3 weeks of vacation in your first year, with regular increases based on years of service
+	•	Extensive health care and dental benefits
+	•	Optional leave and earned-time-off arrangements
+	•	Development opportunities (tuition reimbursement, leadership development, and more)
+Learn more: Find out what we offer.
+Salary: $51.54 - $66.62/hourly
+Want to apply?
+	•	Applications are welcomed immediately; however, must be received no later than 4:30 p.m. PST on the closing date.
+	•	Please note that we will be starting assessments prior to the closing date.
+We encourage all qualified applicants to apply. If you require an accommodation in the assessment process, please email Recruitment Testing Accommodation (SM) when you submit your application.
+________________________________________________________________________________
+Full job description
+	•	Bachelor's degree in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science
+	•	5+ years of data scientist or similar role involving data extraction, analysis, statistical modeling and communication experience
+	•	3+ years of data visualization using AWS QuickSight, Tableau, R Shiny, etc. experience
+We are open to candidates located in: 
+Seattle and Bellevue, Washington 
+Atlanta, GA 
+
+As a Senior Data Scientist, you will be on the ground floor with your team, shaping the way performance is measured, defining what questions should be asked, and scaling analytics methods and tools to support our growing business. You will work closely with Data Engineers, Product Managers, Business Intelligence Engineers, and Software Engineers to develop statistical models, design and run experiments, and find new ways to to optimize the customer experience. 
+
+A successful candidate is highly analytical, able to work effectively in a matrix organization, and adept at synthesizing a variety of technologies and capabilities into products that enhances the PXF experience across multiple products. You must engage with customers to deeply understand their current and emerging needs. 
+
+PXF applications are rapidly evolving and our user base is rapidly expanding, as a DS on the team you will own diving into the different users personas and inventing on behalf of the app users to meet their needs. We are looking for someone who's customer obsessed and technology savvy - with a passion for app development work. The ideal candidate will have a well-rounded technical background as well as a history of leading complex, ambiguous projects end-to-end. 
+
+Key job responsibilities 
+	•	Partner with business stakeholders in formulating the business problem and providing recommendations on the approach
+	•	Understanding customer behavior to personalize customer experience, build recommendation engines to provide relevant results to customers, customer lifecycle analysis and usage behavior
+	•	Conduct large scale A/B testing and offline/online experiments to evaluate performance of various programs and drive product improvements across partner teams
+	•	Process large scale datasets using distributed computing platform to build models, mining insights from data and prototyping models that optimize towards various business goals and metrics
+	•	Interact with cross-functional teams and make business recommendations i.e cost-benefit, forecasting, experiment analysis and present findings to leadership team
+	•	Driving product roadmap and prioritizations of science projects with the PMs to improve customer experience
+About the team 
+PXF builds the employee experiences that connect Amazonians, support them through their employment journey, and make Amazon Earth's Best Employer. 
+Our products include A to Z mobile application directly impacts the lives of associates by helping them identify the best shifts for their schedule, opportunities to pick up additional work, and choose when they get paid. We enable Amazon employees to easily find and access high-quality and authoritative content throughout their employment lifecycle through content management and Search capabilities. 
+We also provide employees with a dynamic and ever-evolving learning experience to protect, prepare, and advance their careers. 
+
+	•	Experience managing data pipelines
+	•	Experience with data scripting languages (e.g., SQL, Python, R, or equivalent) or statistical/mathematical software (e.g., R, SAS, Matlab, or equivalent)
+	•	Knowledge of AWS tech stack (e.g., AWS Redshift, S3, EC2, Glue)
+	•	Experience with statistical models e.g. multinomial logistic regression
+	•	Experience working with scientists, economists, software developers, or product managers
+	•	Experience working with data engineers and business intelligence engineers collaboratively
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter. 
+
+The base salary for this position ranges from $143,200/year up to $239,100/year. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.
+________________________________________________________________________________
+Full job description
+Salary: The salary range for this position is CAD $38.12/Hr. - CAD $54.80/Hr. Article Flag: Mandatory Vaccination Please Note:
+As per the current Public Health Orders (Long Term Care/Seniors Assisted Living Provincial Health Order and the Health Sector Order), as of October 26, 2021, all employees working for Providence Health Care must be fully vaccinated against COVID-19. Proof of vaccination status will be required.
+Summary:
+Providence Health Care is now accepting applications for a Data Scientist to join our team. 
+Reporting to the Senior Manager, Advanced Modeling & Optimization, the Data Scientist I works as part of a team to analyze structured and unstructured data, model complex problems, and identify opportunities for process and product optimization by using statistical, algorithmic, mining, and visual techniques. This role assists in developing machine learning (ML) predictive and prescriptive analytics models through the innovative understanding and use of large data sets and the verification of effectiveness to improve clinical processes and patient outcomes. The Data Scientist I supports Providence Health Care (PHC) strategic priorities by understanding the clinical, financial, and operational issues to be solved and working closely with stakeholders, clinical and technical experts, and functional teams to leverage knowledge, interpret outputs, deploy solutions, and provide actionable insights. The role also assists in developing a solid and sustainable machine learning foundation and competency for PHC. 
+Your duties will include:
+	•	Data Science and ML Model Development: Design, build, and implement data science and machine learning models to identify patterns, trends, and opportunities, collaborating with clinical and management teams to improve various clinical domains.
+	•	Data Integration and Preparation: Identify, clean, and integrate large datasets from disparate sources, enhance data collection procedures, and provide input on data quality for applications and systems.
+	•	Advanced Modeling and Analytics: Work with the Advanced Modeling & Optimization team to develop predictive and prescriptive analytic models, analyze and deploy data science models on cloud environments (Azure/AWS), and provide strategic recommendations to management.
+	•	Stakeholder Collaboration and AI Product Development: Collaborate with stakeholders to develop and implement AI products aligned with PHC's strategic priorities, improve AI product performance, and stay updated with the latest technology trends and methods.
+Qualifications / Skills and Education:
+Education
+A Masters' Degree in Mathematics, Statistics, Computer Science, Engineering or other quantitative degree is required plus one (1) years' experience working with large datasets and machine learning models including experience using statistical and data mining techniques, and distributed data/computing tools; writing computer code; querying databases; and using statistical computer languages, or an equivalent combination of education, training and experience. 
+
+Skills and Abilities
+	•	Knowledge of supervised machine learning, decision trees, and logistic regression.
+	•	Display comprehensive understanding of, and skills using, statistical and data mining techniques such as GLM/Regression, Random Forest, Boosting, Trees, text mining, network analysis, simulation, scenario analysis, and clustering analysis.
+	•	Demonstrated ability to perform analytical functions and transform database structures including creating datasets and writing computer code to execute complex queries using statistical computer languages such as Python, R, and SQL.
+	•	Demonstrated proficiency working with large volumes of data across multiple servers using distributed data/computing tools such as Hadoop, Spark, MySQL, AWS, etc.
+	•	Demonstrated proficiency working with both relational (SQL) and non-relational databases (NoSQL).
+	•	Demonstrated understanding of data privacy, security and related tools such as anonymization and encryption
+	•	Demonstrated ability to use Azure/AWS cloud resources.
+	•	Demonstrated skills in using data visualization tools (such as Tableau, Power BI, Matplotlib, D3, ggplot) and to visually present complex data to stakeholders for consideration.
+	•	Excellent oral and written communication skills and ability to clearly and fluently translate technical findings to non-technical partners and to communicate to multiple audiences using data storytelling and through graphics.
+	•	Demonstrated ability to work collaboratively in an interdisciplinary environment and to develop recommendations using facilitation and consensus building.
+	•	Strong analytical, critical thinking, and evaluation skills to discern and help solve the important problems facing health care, to identify new ways to leverage our data, and to direct efforts in the right direction.
+Duties and Responsibilities:
+	•	Competitive salary: $74,618 - $107,264 CAD per year, depending on experience
+	•	Comprehensive benefits: Eligible employees receive a robust medical and dental benefits package, including 4 weeks paid vacation starting.
+	•	Pension plan: Work towards a comfortable retirement through employer-matched contributions to one of Canada's strongest pension plans!
+	•	Meaningful impact: Your dedication and expertise will directly impact the lives of patients, including many from marginalized communities, helping contribute to the public healthcare system we're privileged to have here in BC.
+	•	Growth opportunities: We welcome individuals at all stages of their career, offering opportunities for professional development and growth.
+	•	State-of-the-art facilities: The new St. Paul’s Hospital and health campus will be the most innovative approach to the delivery of integrated care in B.C. and Canada, designed to appropriately address the future health needs of patients, families and our communities. From hospital care to primary and community health solutions, the new St. Paul’s Hospital and health campus will continue to lead innovations in care, research, and teaching. The new St. Paul’s Hospital is expected to open in 2027.
+	•	Inclusive culture: We respect the diversity, dignity and interdependence of all persons. We value the cultural richness that our diverse workforce brings to the care of our equally diverse population of patients and residents.
+Who we are:
+Providence is a non-profit healthcare provider with over fifteen sites, including a large tertiary hospital in the heart of Vancouver’s beautiful and vibrant Downtown, a smaller community hospital in the idyllic Mount Pleasant neighborhood, one of the largest referral centres for rehabilitation in British Columbia, and five long-term care facilities, as well as other clinics.
+As a leading teaching and research organization, and the provincial referral center for Cardiac, HIV/AIDS, and Renal Care, we provide services ranging from acute and long-term care to leading substance use and addiction treatment supporting some of BC’s most marginalized communities. Guided by the motto “how you want to be treated”, delivering exceptional patient and family-centered care is our mission.
+Curious about working at PHC and our culture? Check out the video below to learn more and meet some of the members of the team you'd be joining:
+
+Your Day to Day
+	•	Designs, builds and implements data science and machine learning models by working as part of the Advanced Modeling & Optimization team and with clinical management and staff, project/program managers, and members of the health informatics team. Identify patterns, trends, and opportunities to assist in making predictions or reducing workload that will have a significant impact across various clinical domains within PHC.
+	•	Identifies, cleans, and integrates large sets of structured and unstructured datasets from disparate sources for use in ML models and products. Enhances data collection procedures to include information that is relevant for building advanced ML models. Provides input to applications, databases, and systems used to assess study data quality.
+	•	Works as part of the Advanced Modeling & Optimization team to use advanced ML processes to convert data from non-functional forms, such as scanned image text, to functional forms ready for use in further ML models.
+	•	Assists in analyzing, testing, and deploying data science models and applications on cloud environment (Azure/AWS).
+	•	Assists in developing predictive and prescriptive analytic models and reports in support of the organization's clinical and business initiatives and priorities by working as part of the Advanced Modeling & Optimization team to apply advanced statistical and computational methods and innovative use of data, collaborate with Developers in the construction of analytic models, and maintain detailed project status plans to achieve ML development cycle timelines and avoid development delays.
+	•	Works with other members of the Advanced Modeling & Optimization team to assist with recommendations to management regarding strategic actions to maintain the ML development pipeline, analytic architectures, and life cycle, to avoid potential negative consequences and system failures, and to increase the positive impacts of ML systems.
+	•	Works closely with clinical and management teams across PHC to strategize, develop, and implement artificial intelligence (AI) products that translate into improved quality of care, clinical outcomes, reduced costs, temporal efficiencies, and process improvements.
+	•	Identifies, engages, and collaborates with specific stakeholders as required for the development of AI products designed around PHC's strategic priorities and clinical/business problems. Assesses and implements improvements to AI products as needed and creates anomaly detection systems to track performance and data accuracy.
+	•	Keeps up-to-date with the latest technology trends and methods by staying abreast of state-of-the-art literature in the fields of data science, operations research, and artificial intelligence.
+	•	Performs other related duties as required.
+________________________________________________________________________________
+Full job description
+THE TEAM
+The mission of the Analytics Department is to provide the business with actionable and accurate information to enable data-driven decision-making.
+
+THE OPPORTUNITY
+Aritzia is experiencing exponential growth, and the Data & Analytics team is growing with it. This is a unique opportunity to join the Analytics Engineering Department, where you will transform raw data in a modern platform and create models that empower self-serve analysis, reporting, and data science. As the Analytics Engineer, you will support and enable the business, apply data modeling expertise, and become the data domain go-to person. And with the skills you gain in this role the opportunities are endless, from a rewarding career in Data & Analytics to continued growth at Aritzia.
+
+THE ROLE
+As the Analytics Engineer, you will lead and be involved in:
+	•	Develop complex SQL transformations to create beautifully designed and widely used data models
+	•	Embed and enrich business logic to unify the analysis of cross functional teams
+	•	Design and recommend data model structure and flow
+	•	Review and approve model changes and be the technical owner for specific data sub-domains
+	•	Create in Google Cloud Platform and Dataform (Google’s version of DBT)
+	•	Contribute to and leverage the best practices and standards of analytics engineering
+
+THE QUALIFICATIONS
+The Analytics Engineer has:
+	•	Proven skills, education, and/or applicable certifications in:
+	◦	Excellent SQL skills with the ability to create efficient data models, applied to cloud data warehousing in particular
+	◦	Strong business modelling skills: going from expressed requirements to an actual data model
+	◦	Varied design options of reshaping data tables
+	◦	Modern cloud data platforms such as GCP, MS, AWS
+	◦	Object-oriented programming (OOP) understanding
+	◦	SAP HANA data environment is a plus
+	•	An enthusiastic approach to taking on new opportunities and challenges
+	•	The ability to collaborate fluently with cross-functional partners
+	•	A commitment to learn and apply Aritzia's Business and People Leadership principles
+
+THE COMPENSATION
+The typical hiring range for this position is $75,000 - $150,000 CAD per year. The final agreed upon [salary/wage] may vary based on factors such as job-related knowledge, skills and experience.
+
+We are always looking for top talent - if your qualifications differ from those listed above, the scope of work and final agreed upon [salary/wage] may be adjusted to reflect your individual qualifications.
+
+Aritzia’s Everyday Luxury compensation package goes beyond the base salary with endless growth and recognition opportunities through our pay-for-performance philosophy. Along with comprehensive benefits, aspirational workspaces and elevated employee perks and experiences - we provide it all.

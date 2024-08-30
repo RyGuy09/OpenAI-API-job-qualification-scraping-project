@@ -1,0 +1,193 @@
+Full job description
+Your New Role and Team
+Sanctuary AI–a multi award-winning LinkedIn Top Startup company– is seeking Machine Learning (ML) Engineers to join our team of seasoned engineers, researchers, and scientists who are dedicated to tackling fundamental challenges in robotic perception, dexterous manipulation, planning, and reasoning.
+
+
+As a member of the ML team, your role involves crafting and deploying innovative algorithms and rigorously testing them in both simulated environments and real-world scenarios with our robots. With access to our in-house robotic platforms, you'll embark on impactful projects leveraging cutting-edge haptic and proprioceptive sensing technologies. This position offers a unique chance to explore and implement state-of-the-art ML methodologies within a dynamic and collaborative environment.
+Success Criteria
+	•	Collaborate with cross-functional teams to identify opportunities for applying machine learning techniques to solve complex problems
+	•	Design, develop, and deploy machine learning models and algorithms to address specific business needs and challenges
+	•	Implement scalable and efficient software solutions to integrate machine learning models into production systems
+	•	Optimize and fine-tune machine learning algorithms for improved performance and accuracy
+	•	Conduct thorough testing and validation of machine learning models to ensure robustness and reliability
+	•	Stay updated on the latest developments and advancements in machine learning and communicate promising research directions to the team
+	•	Provide technical guidance and mentorship to junior team members
+
+
+Your Experience
+Qualifications
+	•	Master's degree or Ph.D. in Computer Science, Engineering, Mathematics, or a related field
+	•	3+ years of demonstrated experience in a wide variety of ML methods with a focus on a specialization such as dexterous manipulation with reinforcement learning or imitation learning, computer vision for robotics, or natural language processing
+	•	4+ years of experience in software engineering, with a focus on developing and deploying production-grade applications
+	•	Working experience with ROS2
+	•	Development experience with parallel computing such as CUDA, OpenMP, SSE, etc.
+	•	Experience with Atlassian tools; Jira, GitLab, Confluence
+	•	Experience taking ML models to production
+	•	Hands-on experience with popular machine learning frameworks and libraries such as TensorFlow, PyTorch, scikit-learn, etc.
+	•	Experience with cloud platforms (e.g. AWS, Azure, GCP) and distributed computing frameworks (e.g., Spark) is a plus
+	•	Familiarity with robotics principles and technologies is highly desirable
+	•	Publications in leading AI, ML or robotics conferences
+
+
+Skills
+	•	Strong proficiency in programming languages such as Python or C++
+	•	Extensive knowledge of machine learning techniques and algorithms, including but not limited to supervised and unsupervised learning, deep learning, reinforcement learning, and natural language processing
+	•	Working knowledge of PyTorch and/or TensorFlow
+	•	Excellent problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment
+	•	Strong communication skills and the ability to convey complex technical concepts to non-technical stakeholders
+
+
+Traits
+	•	Above all else, a consistently positive attitude and a willingness to do whatever it takes to create robust solutions to complex problems
+	•	Optimistic listening and conflict resolution capabilities
+	•	Demonstrated ability to influence others without authority
+	•	Eager to take on new challenges with tenacity and positivity
+	•	Patience, persistence, and attention to detail when resolving performance issues
+	•	Obsession with bringing human-like intelligence to machines
+________________________________________________________________________________
+Full job description
+Company Overview
+CoinUnited is a leading crypto platform, offering a sophisticated array of services for buying and selling various cryptocurrencies. Our platform is designed to provide user-friendly interfaces and advanced features, ensuring seamless trading experiences. We offer a diverse range of trading options, including over-the-counter (OTC) trading and integration with Bitcoin ATMs, which cater to a wide spectrum of trading needs and preferences.
+In addition to our focus on crypto trading, we also boast an exquisite NFT collection valued at over US$ 300 million, underscoring our presence in the evolving digital asset market. At the core of our operations is a strong commitment to security, with the deployment of the latest technology and protocols to safeguard our clients' transactions and assets.
+Responsibilities
+	•	Conduct research on AI and Machine Learning technology
+	•	Design and develop systems for AI applications with web interface. Involve in the whole system development cycle - architecture design, software development, testing, deployment, etc.
+	•	Conduct data analysis and simulation
+	•	Work closely with the development team to write effective APIs, assist in Cloud Big Data Analysis
+	•	Develop and manage well-functioning databases and applications
+Requirements
+	•	Undergraduate Students in in Mathematics, Computer Science, Engineering, Information System, Statistics or any software-heavy program (no experience or crypto knowledge required)
+	•	AI/ML knowledge is preferred
+	•	Programming experience using python is preferred
+We offer
+	•	Highly Competitive Packages including basic salaries, discretionary bonus and other benefits e.g. Performance bonus, Referral bonus, Fitness facilities.
+	•	Be a part of the future of finance technology and no.1 in the industry.
+	•	Young, Fast moving and Challenging work environment.
+	•	Great career development for growing beyond your role.
+	•	Flexible working location across our global offices, including Hong Kong, Taipei, Singapore, Tokyo, Seoul, London, Frankfurt, Sydney, Melbourne, Vancouver, Los Angeles, New York etc.
+Showcase Your Expertise: Bug Discovery
+________________________________________________________________________________
+Full job description
+Terms of Employment
+Permanent full-time
+About Angstrom Vision
+Angstrom Vision Inc. is a venture company spearheading digital 3D vison and AI-based automatic inspection solutions for dynamic tech innovations in the fields of microelectronics, manufacturing, life sciences, biotechnology, and beyond.
+Manufacturing industries producing nano materials and parts require a novel inspection system as conventional optical inspection machines are incapable of resolving narrow width of features, patterns, and shapes of target samples. We develop advanced 3D sensors to overcome the limitations of existing optical measurement and inspection systems.
+Our technology is a breakthrough in the field of metrology, enabling manufacturers to eliminate the source of errors and defects by examining the microscopic patterns and parts in real time ultra-high-resolution 3D with a wide field of view. With a unique innovation in automatic 3D optical inspection solutions, Angstrom Vision is a groundbreaking solution provider to this ever-rising market.
+JOB DESCTIPTION
+Angstrom Vision is seeking a Computer Vision and Machine Learning Researcher who is ready to develop machine vision algorithms and various deep learning neural networks for quantitative phase imaging, computational imaging, and machine vision fields for AI-based inspection of captured digital holograms.
+In addition to developing machine vision algorithms and neural networks for holographic imaging of 3D sensors, position duties also include practical coordination for high accuracy and operating speed of products with physicists and other researchers and identifying solutions for high-precision measurement and inspection challenges. With expert programing knowledge on C/C++, CUDA libraries, Python, and hands-on software experience in Windows PC, the Computer Vision and Machine Learning Researcher will develop software modules that will be a part of system software.
+The candidate will possess passion, creativity, drive, excellence in solid teamwork, a sense of humour, and enjoy doing what it takes to get multiple tasks to the finish line.
+required skills and QUALIFICATIONS
+	•	Ph.D. and/or M.S. in Computer Science or Computer/Electrical Engineering with 2-5 years of experience in the development of computer vision and machine learning algorithms.
+	•	Exceptional capabilities on new algorithm development based on deep convolution neural networks and other neural networks such as U-net, Generative Adversarial Networks (if possible), etc.
+	•	Plentiful experience developing noise removal and image processing algorithms such as object detection, segmentation, and classification based on either classical and/or deep neural network.
+	•	Proficiency in Python, C/C++, MATLAB, OpenGL, and Qt (if possible).
+	•	Experience in parallel programming design and implementation in NVIDIA GPU and multi-threaded application design implementation in Multi-Core CPU is preferred.
+	•	Experience with methods in effective dataset generation of 2D/3D image and training of 2D/3D images using Tensor Flow or PyTorch.
+	•	Experience in simple User Interface design for dataset training, inference testing, and development based on Phyton, C++, or Qt.
+	•	Ability to learn, pick up new concepts, and become proficient in new areas quickly.
+	•	Must be a self-starter with a keen commitment to excellence.
+	•	Good judgment and understanding of the system-level impact of design choices.
+	•	Ability to work with other researchers and engineers (e.g., applied physicists and application software engineers) to develop and innovate on design integration.
+	•	Strong team player with excellent conversational and written communication including presentation skills.
+PREFERRED QUALIFICATIONS
+	•	Familiarity or experience with image processing including quantitative phase imaging, super-resolution, auto-focusing, and de-noising based on classical methods and/or neural networks.
+	•	Numerical programming for mathematical equations in C/C++ and CUDA libraries on Nvidia GPUs.
+	•	Computational graphics design and programming for 2D/3D data expression and plots.
+	•	Experience in auto-defect detection algorithms from 3D depth map data using deep learning inference algorithms.
+	•	Experience with programming on multiple CPUs and GPU servers.
+	•	Basic understanding of optics, optical components, and light sources such as lasers, LEDs, and other types of white light.
+	•	Ability to create documentation including software specifications, user manuals, technical manuals, white papers, and patent documents.
+________________________________________________________________________________
+Full job description
+Your new role
+Sanctuary AI, a world leader in building AI-based control systems for humanoid robots, is seeking a Quality Assurance Engineer for our Machine Learning Team. Reporting to the Head of Machine Learning, you’ll actively contribute to the internal test, validation, and acceptance process critical to the mission of creating human-like intelligence in general purpose robots.
+
+
+The Quality Assurance Engineer will handle the vital responsibility of helping construct, evolve, and accelerate the capabilities of a system designed to support Sanctuary’s mission. You will gain a comprehensive understanding of our existing systems and component testing process and iterate upon it to improve our performance in software testing, integration, and the ability to bring our robotic hardware platform to life.
+
+
+The best Quality Assurance Engineer candidate has experience designing and running test programs for high-complexity, network-connected, technological systems. This includes systems comprising hardware, software, and AI/ML technologies, such as those used in autonomous vehicles, drones, mobile robots, or high-performance aerospace vehicles or aircrafts.
+
+
+As Quality Assurance Engineer you’ll manage test execution, and validation, against our workflow testing process for all components throughout the robotic system, establish procedures and automation for running those tests to maximize scalable testing acceleration. Demonstrated experience in a Systems Engineering discipline would allow you to hit the ground running in this role.
+Success Criteria
+	•	Bring hands-on experience in implementing, documenting, and maintaining testing solutions and lifecycles for highly complex technological systems involving both hardware and software.
+	•	Gain cutting-edge career experience with product level testing and validation towards delivering the world’s first human-like intelligence in general purpose robots.
+	•	Achieve company-wide visibility as you work with leaders to ensure the product level requirements are met, to continually push the boundaries of the systems capabilities forward.
+	•	Expand your experience as you develop a user-level understanding of advanced modern robotics and human-like intelligence systems.
+
+
+Your Experience
+Qualifications:
+	•	Degree in Engineering or other technical discipline (Computer, Mechatronics, Robotics, Electrical, etc.) or equivalent work experience required.
+	•	1-2 years of hands-on experience with software-driven hardware systems.
+	•	Experience developing and executing test scenarios and supporting data collection.
+	•	Proven ability to write scripts and perform process automation for repeatable testing.
+	•	Ability to work in a multidisciplinary team environment, including research scientists, hardware, electrical, and software engineers.
+	•	Experience dealing with big data, noisy data, and nondeterministic/stochastic systems, including understanding of data quality.
+
+
+Skills:
+	•	Proficiency in scripting languages such as Python, Bash, JavaScript, or similar.
+	•	Familiarity with networking concepts and protocols such as DNS, HTTP, TCP/IP, SSL, etc.
+	•	Knowledge of machine learning frameworks and libraries such as PyTorch, TensorFlow, Scikit-Learn.
+	•	Exposure to testing frameworks and libraries such as Selenium, Serenity, Robot, or similar.
+	•	Familiarity with electromechanical systems, robotics, autonomous vehicles, and/or industrial automation.
+	•	Excellent organizational, communication, and process documentation skills.
+________________________________________________________________________________
+Full job description
+About SYLVIS
+SYLVIS is an established residuals management firm committed to providing industry-leading environmental consulting and operational services to a wide range of clients in both the private and public sectors. We are a group of highly experienced professionals working across a variety of technical disciplines pioneering innovative solutions to beneficially use residuals. We have been Making Waste History for more than 35 years. SYLVIS is looking to expand its reach by growing across North America and is looking for employees that approach life with a desire to always learn, evolve, and grow.
+
+ Position Description
+The Applied Research Scientist will work directly with the President of SYLVIS to plan, execute, and grow SYLVIS’s internal applied research program that is foundational to the SYLVIS mission to Make Waste History. SYLVIS projects realize the value of residuals (e.g. biosolids, wood ash, compost, pulp and paper residuals, landfill leachate, etc.) by introducing them back into the environment for ecological and societal benefit. As a self-starter, you will design and execute research that determines if and how best residuals can be used, supporting business growth objectives and keeping SYLVIS at the forefront of pioneering beneficial residuals management. You will be involved in all aspects of research from big picture vision development to hands on field sampling.
+
+ Functions and Responsibilities
+	•	Identify key research questions to be addressed with input from qualified professionals, project managers, clients, landowners, and the business development team
+	•	Lead the development of robust experimental designs, data collection, statistical analyses, and reporting functions of the research program
+	•	Implement and integrate applied research experiments within operational projects
+	•	Lead stand alone research projects for clients
+	•	Provide subject matter expertise in soil science, nutrient management, and the value of residuals in SYLVIS’s projects
+	•	Work with the marketing, business development, and project teams to leverage research results into value proposition for clients and the environment
+	•	Establish new research partnerships and relationships with external agencies; support and grow existing relationships and partnerships
+	•	Identifying sources of funding for research and development
+	•	Complete documentation and submissions for the Scientific Research and Experimental Development (SR&ED) Tax Incentive Program
+
+
+Qualifications
+	•	Graduate degree (MSc or PhD) in an environmental discipline related to forestry, agriculture, plant science, soil science, biology, or a similar field with a minimum of five years of experience
+	•	Valid Canadian driver’s license
+
+
+Skills and Experience
+	•	Soil science and plant nutrition expertise
+	•	Field sample collection and analyses (soil, water, residuals, vegetation)
+	•	Conducting literature reviews
+	•	Clear communication of scientific information, targeted for the audience
+	•	Development of hypotheses, experimental design, data management, statistical analyses, reporting, and publications
+	•	Demonstrated ability to write proposals and develop project and program budgets
+	•	Experience working with residuals (e.g. biosolids, wood ash, compost, pulp and paper residuals, landfill leachate, etc.) is considered an asset
+
+
+As a professional you will bring the following qualities to the position:
+	•	A can-do attitude and superior attention to detail and quality,
+	•	Exceptional organization and communication skills,
+	•	A willingness to work outdoors in adverse weather conditions,
+	•	Ability to travel to sites throughout Western Canada
+
+
+Benefits
+SYLVIS is committed to offering best-in-class benefits for its employees and is highly focused on employee satisfaction and retention. Following successful completion of probationary period, benefits available to permanent employees include:
+	•	Annual profit-share program
+	•	Laptop, cell phone and monthly plan
+	•	Life insurance and extended health benefits, including a healthcare spending account of $1,000 per dependent
+	•	Lifestyle spending account - $400 per year to support active living and sustainable behaviours (e.g. fitness memberships, public transit passes, exercise gear)
+	•	Field gear allowance, up to $475 per year
+	•	Professional dues reimbursement for a relevant professional designation
+	•	Professional development support and training opportunities
+	•	Three weeks paid annual leave to start
+	•	13 paid statutory holidays
+	•	Flexibility to work from home one day per week
+	•	A fun and supportive work environment including all-staff meetings, social activities, and celebrating personal and professional accomplishments

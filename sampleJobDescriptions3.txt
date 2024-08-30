@@ -1,0 +1,341 @@
+Full job description
+Data Scientist
+BC Cancer
+Vancouver, BC
+
+
+The Data Scientist acts in accordance with the cognitive computing priorities of BC Cancer to build and increase capacity and support for our cognitive computing learning systems to create and enhance insights gained from analyzing quality data. The Data Scientist is adept at using large data sets and machine learning models to find opportunities for product and process optimization as well as to test the effectiveness of different courses of action. They use a variety of data mining / data analysis techniques and utilize their knowledge of the full AI product lifecycle of development, testing, implementation, and maintenance. The Data Scientist will drive business results with their data-based insights and works with a wide range of stakeholders and functional teams. The Data Scientist will discover solutions hidden in large data sets and work with stakeholders to improve business processes and outcomes.
+
+
+What you'll do
+
+
+	•	Work as a senior data scientist and strategist for Data and Analytics, to foster and develop a solid and sustainable data science foundation and competency for BC Cancer
+	•	Work closely with clinical and leadership teams across BC Cancer programs and the health authority to strategize, develop, and implement AI products
+	•	Identify, clean, and integrate large sets of structured and unstructured datasets from disparate sources for use in advanced analytical models and products
+	•	Use advanced ML processes to convert data from non-functional forms, such as unstructured text or scanned image text, to functional forms ready for use in further ML models
+	•	Use advanced ML models to identify patterns, trends, and opportunities that can make predictions or reduce workload to make a significant impact across various domains within BC Cancer
+	•	Lead the process of implementation of ML models into production by collaborating with developers and other stakeholders.
+	•	Communicate analytic solutions to leadership and apprise leadership of AI product status throughout the various stages of the product lifecycle
+	•	Implement improvements as needed to already implemented AI products
+
+
+What you bring
+
+
+Qualifications:
+	•	A level of education, training, and experience equivalent to a PHD in Statistics, Mathematics, Computer Science or another quantitative field
+	•	5-7 years of experience working with large datasets and machine learning models.
+	•	Advanced skills in AI product design and the analysis of quantitative data for the purpose of creating actionable insights and measureable impact.
+You have:
+	•	Commitment to upholding the shared responsibility of creating lasting and meaningful reconciliation in Canada as per TRC (2015) and BC's Declaration on the Rights of Indigenous Peoples Act (2019).
+	•	Knowledge of social, economic, political and historical realities impacting indigenous communities and familiarity with Indigenous Cultural Safety and anti-racism and accompanying reports (BC DRIPA, TRC, etc.).
+	•	Thorough knowledge of the principles, processes, procedures and methods involved in data analysis, statistical methods, and machine learning.
+	•	Expertise in planning, organizing and coordinating AI product activities.
+	•	Proficiency with using advanced machine learning methods, machine learning software packages, and manipulation of large datasets. Knowledge and experience in statistical and data mining techniques including but not limited to: GLM and other regression, Bootstrapping, Random Forests, Boosting, Trees, text mining, social network analysis, simulation, scenario analysis, clustering analysis, decision trees, neural networks, and other methodology.
+	•	Computer code, querying databases, and using statistical computer languages: Python, SQL, R, SAS and others Experience with distributed data/computing tools: Map/Reduce, Hadoop, AWS, Hive, Spark, Gurobi, MySQL, or similar.
+	•	Visualizing/presenting data for stakeholders using: R, ggplot, Tableau, PowerBI, Matplotlib, D3, Periscope/Sisenseor other.
+	•	Knowledge synthesis and translation activities. Demonstrated ability to communicate effectively, both verbally and in writing.
+	•	Ability to work collaboratively in an interdisciplinary environment.
+
+
+What we bring
+
+
+Every PHSA employee enables the best possible patient care for our patients and their families. Whether you are providing direct care, conducting research, or making it possible for others to do their work, you impact the lives of British Columbians today and in the future. That’s why we’re focused on your care too – offering health, wellness, development programs to support you – at work and at home.
+	•	Join one of BC’s largest employers with province-wide programs, services and operations – offering vast opportunities for growth, development, and recognition programs that honour the commitment and contribution of all employees.
+	•	Access to professional development opportunities through our in-house training programs, including +2,000 courses, such as our San’yas Indigenous Cultural Safety Training course, or Core Linx for Leadership roles.
+	•	Enjoy a comprehensive benefits package, including municipal pension plan, and psychological health & safety programs and holistic wellness resources.
+	•	Annual statutory holidays (13) with generous vacation entitlement and accruement.
+	•	PHSA is a remote work friendly employer, welcoming flexible work options to support our people (eligibility may vary, depending on position).
+	•	Access to WorkPerks, a premium discount program offering a wide range of local and national discounts on electronics, entertainment, dining, travel, wellness, apparel, and more.
+
+
+Job Type: Regular, Full-Time
+Salary Range: $106,026-$152,413/year.The starting salary for this position would be determined with consideration of the successful candidate’s relevant education and experience, and would be in alignment with the provincial compensation reference plan. Salary will be prorated accordingly for part time roles.
+Location: 601 West Broadway, Vancouver, BC V5Z 4C2
+Applications will be accepted until position is filled.
+Hours of Work: Monday to Friday; 0830-1630
+Requisition Number: 168268E
+
+
+As per the current Public Health Order, full vaccination against COVID-19 is a condition of employment with PHSA as of October 26, 2021.
+
+
+What we do
+
+
+BC Cancer provides comprehensive cancer control for the people of British Columbia.
+
+
+BC Cancer is part of the Provincial Health Services Authority (PHSA).
+
+
+(PHSA) plans, manages and evaluates specialized health services with the BC health authorities to provide equitable and cost-effective health care for people throughout the province. Our values reflect our commitment to excellence and include: Respect people – Be compassionate – Dare to innovate – Cultivate partnerships – Serve with purpose.
+
+
+Learn more about PHSA and our programs: jobs.phsa.ca/programs-and-services
+
+
+PHSA and BC Cancer are committed to employment equity, encouraging all qualified individuals to apply. We recognize that our ability to provide the best care for our diverse patient populations relies on a rich diversity of skills, knowledge, background and experience, and value a safe, inclusive and welcoming environment.
+
+
+Reconciliation is an ongoing process and a shared responsibility for all of us. The BC Governments’ unanimous passage of the Declaration on the Rights of Indigenous Peoples Act was a significant step forward in this journey—one that all health authorities are expected to support as we work in cooperation with Indigenous Peoples to establish a clear and sustainable path to lasting reconciliation. True reconciliation will take time and ongoing commitment to work with Indigenous Peoples as they move toward self-determination. Guiding these efforts Crown agencies must remain focused on creating opportunities that implement the Truth and Reconciliation Commission Mandate.
+________________________________________________________________________________
+Full job description
+The Product Ads Algorithm & Infrastructure team in Ads Understanding team is hiring an Applied Scientist for our Vancouver, British Columbia, Canada location. The team is responsible for product ads selection, relevance, modeling, and online infrastructure for serving and experimenting cutting edge algorithms, ranging from natural language processing (NLP) to information retrieval, computer vision, etc. The team leverages heavily on deep learning methodologies to build solutions to meet the Commerce Strategy of Microsoft, where Product Ads is at the center of it! We are looking for a passionate scientist to deliver an amazing shopping experience with our multi-modal models backing it up.
+
+
+Online Advertising is one of the fastest growing businesses on the Internet today, with about $70 billions of a $600 billion advertising market already online. Search engines, web publishers, major ad networks, and ad exchanges are now serving billions of ad impressions per day and generating terabytes of user events data every day. Rapid online advertising growth has created enormous opportunities and technical challenges that demand computational intelligence. Computational Advertising has emerged as a new interdisciplinary field that involves information retrieval, machine learning, data mining, statistics, operations research, and micro-economics, to solve challenging problems that arise in online advertising. The central problem of computational advertising is to select an optimized slate of eligible ads for a user to maximize a total utility function that captures the expected revenue, user experience and return on investment for advertisers. Microsoft is innovating rapidly in this space to grow its share of this market by providing the advertising industry with the state-of-the-art online advertising platform and service. Microsoft Ads Relevance and Revenue (RnR) team is at the core of this effort, responsible for research & development of all the algorithmic components in our advertising technology stack.
+
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.
+Responsibilities
+	•	We are looking for an Applied Scientist-II with R&D background to conduct research and development on intelligent search advertising systems to mine and learn actionable insights from large scale data and signals we collect from user queries and online activities, advertiser created campaigns and their performances, and myriad responses from the parties touched by the system in Bing ads paid search ecosystem.
+	•	The person will play a key role in driving algorithmic and modeling improvement to the system (esp. using deep learning techniques), analyze performance and identify opportunities based on offline and online testing, develop, and deliver robust and scalable solutions, make direct impact to both user and advertisers experience, and continually increase the revenue for Bing ads.
+	•	Embody our Culture and Values
+Qualifications
+Required Qualifications:
+	•	Bachelor's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 2+ years related experience (e.g., statistics, predictive analytics, research)
+	◦	OR Master's Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field AND 1+ year(s) related experience (e.g., statistics, predictive analytics, research)
+	◦	OR Doctorate in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
+	◦	OR equivalent experience.
+	•	2+ years working experience in statistical natural language processing (NLP) with latest deep learning technologies including transformer and Large Language Models (LLMs) OR Computer Vision (CV) with latest deep learning technologies including Vision Transformers.
+	•	2+ years working experience with coding in production systems using c++, c#, jaya or python
+Preferred Qualifications:
+	•	PhD degree is a plus.
+	•	Deep learning or machine learning experience with experience with TensorFlow, Keras, or Pytorch is a plus
+	•	Publication record in ML, NLP areas (CV also is preferred)
+	•	Experience in online advertising is a plus.
+	•	Experience in parallel or distributed processing, high performance computing, stream computing and SCOPE is a plus
+
+	•	
+	•	Applied Sciences IC3 - The typical base pay range for this role across Canada is CAD $83,600 - CAD $159,600 per year.  Find additional pay information here: 
+	•	https://careers.microsoft.com/us/en/us-corporate-pay 
+	•	
+	•	Microsoft will accept applications for the role until July 16, 2024
+________________________________________________________________________________
+Full job description
+	•	PhD, or Master's degree and 2+ years of applied research experience
+	•	Experience programming in Python, C++, or related languages
+	•	Experience with neural deep learning methods and machine learning
+Technology is giving the beauty industry a makeover! Are you interested to disrupt and redefine the way customers buy Beauty products online? Are you interested in using the latest advances in machine learning, computer vision, and big-data technologies to build online customer experiences for Beauty products that can equal or even surpass an in-store experience? Amazon Beauty is reinventing the shopping experience for all beauty customers across the largest selection of brands to become the most trusted beauty destination. Beauty is unique in retail with a diverse customer set along with products that are emotional, fun, and creative. This is your chance to get in on the ground floor to build something entirely new and transform an industry! 
+
+To achieve our vision, we think big and tackle technological challenges every day. We need builders and disruptors who are not afraid to innovate! Our architecture and development processes support rapid experimentation, global deployments, and self-service capabilities that allow us to scale better. 
+
+We build: 
+	•	Amazon scale systems: All our technology needs to work at Amazon scale, serving millions of customers with millisecond-level latency.
+	•	Immersive customer experiences: We will create elevated and immersive customer experiences that using cutting-edge UI-technologies and user-centric design patterns.
+	•	Computer Vision and augmented reality (AR) experiences: We bring exciting experiences directly to the customer's mobile phone using their cameras and combinations of computer vision and AR.
+	•	Personalization using machine learning: We use latest advances in ML and GenAI to provide better-personalized shopping experiences.
+	•	Data & analytics pipelines: Amazon is data-driven, and a robust data backbone is necessary for our systems. We build on core AWS services such as EC2, S3, DynamoDB, SageMaker, StepFunctions, etc.
+	•	Multi-device support: We build for all traditional surfaces - desktop browsers, mobile browsers, and mobile applications.
+Key job responsibilities 
+We are looking for talented and innovation-driven scientists who are passionate about leveraging the latest advances in Generative AI, Diffusion Models, Computer Vision (CV), Graphics, AR/VR, Virtual Try-On, Image Processing, and related technologies, to solve customer problems in the Beauty space. You will have an opportunity to revolutionize the customer shopping experience across the world's most extensive catalog of beauty products. You will be directly responsible for leading the ideation, design, prototyping, development, and launch of innovative scientific solutions that address customer problem in the beauty and shopping space. You will closely partner with product managers, UX designers, engineers, and the broader Amazon scientific community to pioneer state-of-the-art solutions to extremely challenging problems in machine learning and CV. You will be our organization's Tech Evangelist and represent our organization in key internal and external AI, ML, or Vision conferences. 
+
+About the team 
+Amazon Beauty Tech is a key and essential part of the Consumables organization and North America Stores. We are a passionate group of engineers, scientists, product managers, and designers who drive technological innovation to improve the customer shopping experience. We have a startup-like work culture where innovation is encouraged; we are never afraid to propose big ideas for fear of failing! 
+
+	•	Experience with modeling tools such as PyTorch, Tensorflow, numpy, scipy etc.
+	•	Experience with conducting research in a corporate setting
+	•	PhD in engineering, technology, computer science, machine learning, robotics, statistics, mathematics or equivalent quantitative field
+	•	Hands-on experience in building solutions for AR/VR, Virtual Try-On, Generative AI, Diffusion Models, Content Generation, Computer Vision (CV), Graphics, Image Processing and related technologies.
+	•	Top tier AI publications is a strong plus.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter. 
+
+The base salary for this position ranges from $149,300/year up to $249,300/year. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.
+________________________________________________________________________________
+Full job description
+Clio
+is more than just a tech company–we are a global leader that is transforming the legal experience for all by
+bettering the lives of legal professionals
+while
+increasing access to justice
+.
+
+Summary:
+
+We are currently looking for a new Intermediate Data Scientist, to join our Data Insights team and work closely with Clio’s products and business teams.
+
+You thrive on both analytical challenges and working closely with product development and customer-facing professionals. You will collaborate with everyone from product managers to business leaders and developers, and will guide rapid iterations of hypothesis, prioritization, experimentation / analysis and strategy setting – extract valuable insights, enhance our decision-making processes and contribute to the development of innovative financial products.
+
+
+The team:
+
+You will be working alongside a cross-functional team of data scientists, embedded within Clio’s products and business teams, developing AI and ML solutions to understand Clio’s customers, to bring them cutting-edge AI and GenAI products, and to recommend proactive and efficient ways to serve them better. You will play an integral role, enabling business leaders across Clio make rigorous data-driven decisions. You will help our business grow, help our customers succeed, and continuously improve the way we operate.
+
+
+Who you are:
+We aren’t looking for just any traditional Data Scientist to join this team. We’re looking for someone who takes data seriously, thrives in a rapid-growth, high-velocity environment, and lives and breathes our values. We’re looking for an innovator and a thought leader! We’re looking for someone who is:
+	•	Passionate about driving growth empirically; 
+	•	Always looking to innovate with data and explore open-ended questions; 
+	•	Strategically minded and never shies away from a challenge; 
+	•	Self-motivated and able to work autonomously and collaboratively; 
+	•	Agile and responsive, and comfortable with constant change. 
+
+You will help lay the foundation for this work by ensuring good data quality, data governance, and analytical practices. And you will also be part of our larger Data & AI team for learning, career development, and company-wide data initiatives.
+
+What you'll work on:
+	•	Collaborate with the Clio products teams to refine business problems, develop hypotheses, and provide input that drives growth. 
+	•	Suggest new questions about our business, product, and customers that lead to impactful insights. 
+	•	Work with other team members to develop predictive AI and ML solutions and deploy them in production. 
+	•	Apply rigorous statistical analysis and data mining techniques to evaluate impact of different product features and other business initiatives. 
+	•	Employ statistical analysis, machine learning, GenAI, LLMs, etc. to unlock new product opportunities. 
+	•	Support scientific thinking in product and business teams by enabling discussions with data, disseminating best practices, and leading by example. 
+	•	Effectively communicate complex technical concepts and findings to both technical and non-technical audiences. 
+
+What you may have:
+	•	3+ years applied experience in data science. 
+	•	The ability to translate business requirements into data science solutions. 
+	•	Experience in developing analysis in Python and experience with relevant ML libraries and frameworks (e.g., pandas, PyTorch, scikit-learn) 
+	•	Strong team player mindset, while able to work under your own initiative and prioritize time and tasks effectively. 
+	•	Excellent written and verbal communication skills. 
+	•	Ability to write structured SQL queries for answering questions and manipulating data. 
+
+Serious bonus points if you have:
+	•	Understanding of SaaS business metrics and growth drivers. 
+	•	Experience with FinTech concepts. 
+	•	Experience in analytics working with product and user behavior data, e.g., retention or churn analysis 
+	•	Experience with building ML/AI pipelines and relevant tools (e.g., Kedro, MLFLow) 
+	•	Experience with large data sets and user behavior data. 
+	•	Experience with NLP and LLMs. 
+	•	A graduate degree in a relevant quantitative discipline (computer science, statistics, mathematics, physics, engineering) 
+What you will find here:
+
+Compensation is one of the main components of Clio’s Total Rewards Program. We have developed a series of programs and processes to ensure we are creating fair and competitive pay practices that form the foundation of our human and high-performing culture.
+
+Some highlights of our Total Rewards program include:
+	•	Competitive, equitable salary with top-tier health benefits, dental, and vision insurance 
+	•	Hybrid work environment, with expectation for local Clions (Vancouver, Calgary, Toronto, and Dublin) to be in office min. once per week on our Anchor Day. 
+	•	Flexible time off policy, with an encouraged 20 days off per year. 
+	•	$2000 annual counseling benefit 
+	•	RRSP matching and RESP contribution 
+	•	Clioversary recognition program with special acknowledgement at 3, 5, 7, and 10 years 
+
+The expected salary range* for this role is $106,500 to $144,200 CAD. Please note there are a separate set of salary bands for other regions based on local currency.
+
+	•	Our salary bands are designed to reflect the range of skills and experience needed for the position and to allow room for growth at Clio. For experienced individuals, we typically hire at or around the midpoint of the band. The top portion of the salary band is reserved for employees who demonstrate sustained high performance and impact at Clio. Those who are new to the role may join below the midpoint and develop their skills over time. The final offer amount for this role will be dependent on geographical region, applicable experience, and skillset of the candidate
+________________________________________________________________________________
+Full job description
+EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.
+At the heart of EA SPORTS is the FC franchise. EA SPORTS FC is the world's #1 best-selling video game with over 200M engaged players across multiple platforms, including console, PC, and mobile. Innovation, passion, and teamwork are at the heart of everything we do. With studios in Vancouver, Bucharest, and Cologne, we're looking for the brightest talent, so we can continue to create experiences that connect with millions of hearts and minds the world over.
+The Challenge Ahead:
+As a Machine Learning Engineer, you will deploy systems, tools, and models that support our EA Sports FC franchise. You are a technically oriented individual, knowledgeable of software engineering principles and technology used to create data-driven products and services. You report to an embedded data science team in FC and will work with us, along with product managers, engineers, and technical leaders who bring EA Sports FC to life.
+What a Machine Learning Engineer does at EA:
+	•	Define and refine our technical architecture for deploying machine learning or similar data-driven tools and services in EA Sports FC.
+	•	Leverage central technology for deploying internal tools and player-facing personalization systems.
+	•	Understand how to use machine learning principles to help learn and tune in-game experiences while understanding their consequences.
+	•	Document and formalize processes for maintaining our codebase and creating safe and scalable deployment practices.
+	•	Support peers with technical reviews, ensuring quality coding and deployment practices.
+Requirements:
+	•	BS in a technical field, such as Mathematics, Computer Science, Economics, or Statistics.
+	•	2 or more years of experience in engineering, data science, analytics, or a related area in a consumer products-oriented industry.
+	•	Familiarity with machine learning models like LightGBM, Random Forest, and Multi-armed bandits, and experience deploying these models in a production context.
+	•	Experience deploying models in a production environment using technologies like Apache Airflow, Kubernetes, Databricks, or others.
+	•	Experience working with at least one of the modern cloud platforms: AWS, GCP, etc. Familiar with common platform functions and architectures, like AWS S3, EC2 operations, etc.
+	•	Experience in ANSI SQL and modern query engines (Trino, Redshift, etc.). Familiar with data architecture best practices, such as ETL, data model design, data visualization tools, etc.
+	•	Experience with experimental design and measurement.
+	•	Knowledge of programming best practices and experience using CI/CD with Gitlab, Github, or similar tools.
+ BC COMPENSATION AND BENEFITS
+The base salary ranges listed below are for the defined geographic market pay zones in these locations. If you reside outside of these locations, a recruiter will advise on the base salary range and benefits for your specific location.
+EA has listed the base salary ranges it in good faith expects to pay applicants for this role in the locations listed, as of the time of this posting. Salary offered will be determined based on numerous relevant business and candidate factors including, for example, education, qualifications, certifications, experience, skills, geographic location, and business or organizational needs.
+BASE SALARY RANGES
+	•	British Columbia (depending on location e.g. Vancouver vs. Victoria):
+º $96,400 - $133,900 CAN Annually
+Base salary is just one part of the overall compensation at EA. We also offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+________________________________________________________________________________
+Full job description
+Conexiom® is at the forefront of touchless automation for manual processing of purchase orders and other business documents, all powered by our AI-driven automation platform.
+With Conexiom's ongoing significant growth, we are propelling our data science endeavors further. As a Sr. Data scientist at Conexiom, you'll be at the center of problem-solving. This position is responsible for developing and implementing machine learning models, conducting data analysis, and ensuring the seamless deployment and integration of these models into production systems.
+
+This position is based in Vancouver, where our headquarters are located, and will require occasional in-person days for team meetings or social events.
+Responsibilities:
+
+	•	Experiment with various machine learning algorithms and techniques to identify the most suitable ones for given tasks.
+	•	Conduct and validate model performance through comprehensive evaluation metrics.
+	•	Analyze large datasets to extract actionable insights and trends.
+	•	Implement machine learning models into production environments ensuring scalability and reliability.
+	•	Monitor and maintain the performance of deployed models, making updates and improvements as necessary.
+	•	Work closely with data engineer and Principal ML engineer.
+	•	Stay updated with the latest advancements in machine learning, AI, and data science.
+
+Skills / Requirements:
+	•	Bachelor’s or Master’s degree in Computer Science, Data Science, Machine Learning, Statistics, or a related field.
+	•	3+ years’ experience in implementing scalable ML systems into production environment.
+	•	Experience in all parts of the lifecycle of ML projects, including initial conceptualization, data handling, model development, and deployment.
+	•	Proficiency in programming languages including Python.
+	•	Experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, Scikit-Learn, etc.
+	•	Experience developing python APIs using tools such as FastAPI.
+	•	Knowledge of database technologies (SQL, MongoDB, Databricks) and data pipeline tools.
+	•	Familiar with ML CI/CD pipelines for development, testing, versioning, and task automation.
+	•	Familiar with cloud platforms (AWS, GCP, Azure) and containerization (Docker, Kubernetes).
+	•	Experience building an enterprise class business automation solution a plus.
+	•	Experience working in a SaaS environment a plus.
+	•	Stay updated with the latest advancements in machine learning, AI, and data science.
+
+Compensation:
+The targeted salary range for this position falls between $140,000 and $170,000 CAD depending on experience and qualifications.
+
+
+About Conexiom:
+Conexiom is a cloud-based, purpose-built automation platform that automates the most critical and complex B2B document transactions between buyers and sellers. Manufacturers and distributors across the globe, such as Grainger, Genpak, Honeywell, and Lonza, trust Conexiom to create resilient operations that scale, drive growth, reduce costs, and build frictionless relationships with their customers. Conexiom is based in Vancouver, British Columbia, and has offices in Kitchener, Ontario; London, England; and Chicago, Illinois. Visit Conexiom.com. 
+
+Conexiom embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We are working to ensure that the profile of our staff reflects the profile of the communities we work in and serve. For that reason, we seek resumes and expressions of interest from a broad and diverse talent pool. Strength comes from the inclusion of diverse perspectives and experiences.
+
+Reasons to work for Conexiom:
+Our MISSION is to transform broken processes into business value
+We are DATA-driven and RESULTS-focused
+We show our COMMITMENT to the people that make-up Conexiom by:
+	•	Training and development opportunities
+	•	Competitive compensation
+	•	Work/Life balance – Open PTO Policy in North America & Flex days in the UK
+	•	Comprehensive health, dental, & vision insurance
+________________________________________________________________________________
+Full job description
+	•	Salary: The salary range for this position is CAD $38.13/Hr. - CAD $54.82/Hr. Job Summary:
+	•	Come work as a Data & Analytics Advisor, Presentation Designer & Data Storyteller with Vancouver Coastal Health (VCH)!
+	•	
+	•	
+	•	Reporting to the Manager, Medical Affairs Analytics, the Presentation Designer & Data Storyteller will leverage an understanding of data analysis and design principles to conduct analysis, develop presentations and infographics, and tell visual stories with data. The ideal candidate will possess a blend of analytical, design, and storytelling skills; ensuring that data and information is delivered to health care leaders in an engaging and meaningful way. This role supports Medical Affairs leadership and staff with communication and engagement strategies from a visual presentation perspective, for audiences at all levels of the organization including to Senior Medical Leaders, the Board, and Senior Executive Team of Vancouver Coastal Health (VCH). This work is framed within VCH’s commitments to our pillars of Indigenous Cultural Safety, Anti-Racism, Equity, Diversity and Inclusion, and Planetary Health.
+	•	
+	•	
+	•	As a Data & Analytics Advisor, Presentation Designer & Data Storyteller with Vancouver Coastal Health you will:
+	•	Conduct analysis, interpret results, and summarize findings with a data storytelling approach. 
+	•	Translate complex findings and analytical outputs into simple, compelling narratives that resonate with a variety of stakeholder groups. 
+	•	Lead the development of PowerPoint presentations, data communication materials, and infographics. 
+	•	Manipulate data and apply visualization best-practices to create graphs and other visuals for data storytelling. 
+	•	Carry out responsibilities in accordance with health and safety requirements. Immediately report unsafe situations by notifying supervisor or other appropriate personnel. 
+	•	Perform other related duties as assigned. 
+	•	Qualifications:
+	•	Education & Experience
+	•	Bachelor’s Degree in analytics, business analytics, data visualization, data science, information design, data communications, or relevant discipline.
+	•	One (1) or more years of recent, related experience including health care, analytics, and communications or equivalent combination of education, training, and experience.
+	•	Knowledge & Abilities
+	•	Proven experience in creating presentation decks, infographics, and related materials for a large organization, adhering to its branding guidelines.
+	•	Excellent communication skills and ability to develop tailored communications and materials for diverse stakeholder groups.
+	•	Creativity and ability to apply best practices in data visualization and design to create visually-appealing graphics that bring data to life.
+	•	Advanced proficiency in PowerPoint.
+	•	Ability to conduct data analysis in Excel/Tableau (SQL/Python preferred) and manipulate data to create graphs and visualizations.
+	•	Proficient in interpreting, and synthesizing data from multiple sources to create a compelling data story that drives action and decision making.
+	•	Ability to prioritize and set boundaries to manage workload and organize multiple competing projects.
+	•	Maintain rigorous quality standards while working under pressure and tight deadlines.
+	•	Ability to work in a team.
+	•	Develops and maintains strong relationships with key internal and external partners to promote and enhance services provided with sensitivity to diversity and indigenous lens.
+	•	Practices the recognition, inclusion and support of all types and aspects of diversity at all stages of engagement, with an understanding of the issues faced by people from equity-deserving groups.
+	•	Physical ability to perform the duties of the position.
+	•	Closing Statement:
+	•	
+	•	As per the current Public Health Orders, as of October 5, 2023, all employees working for Vancouver Coastal Health must be fully vaccinated for COVID-19 or have received a single dose of the most-recent, updated COVID-19 vaccine. Proof of vaccination status will be required. 
+	•	
+	•	Why Join Vancouver Coastal Health (VCH): 
+	•	
+	•	VCH is a world class innovator in medical care, research and teaching, delivering service to more than one million BC residents. At VCH, we embrace thinking boldly, taking smart risks, and 'going first' when we believe it will lead to the best possible outcomes for patients and their families. We invite you to join us in creating healthy lives in healthy communities by showcasing our passion for care, connection to the communities we serve and our culture of teamwork that makes VCH a great place to work. 
+	•	
+	•	Comprehensive health benefits package, including MSP, extended health and dental and municipal pension plan
+	•	Grow your career with employer-paid training and leadership development opportunities
+	•	Wellness supports, including counselling, critical incident and innovative wellness services are available to employees and their immediate families
+	•	Award-winning recognition programs to honour staff, medical staff and volunteers
+	•	Access to exclusive discount offers and deals for VCH staff
